@@ -1,0 +1,1972 @@
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.11)  6 FEB 2025 18:59
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**"/Users/vid/Documents/FAU/Laser Techologly/notes/LT/Dokument.tex"
+("/Users/vid/Documents/FAU/Laser Techologly/notes/LT/Dokument.tex"
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip48
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen139
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfx/pdfx.sty
+Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
+\pdfx@minorversion=\count195
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/everyshi/everyshi.sty
+Package: everyshi 2020/11/18 v4.00 EveryShipout Package
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/luatex85/luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks17
+){/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+warning  (map file): entry for 'dummy-space' already exists, duplicates ignored
+(/usr/local/texlive/2024/texmf-dist/tex/latex/pdfx/l8u-penc.def
+File: l8u-penc.def 2017/06/23 v0.8 Custom LaTeX file, for UTF8 encoded letters and symbols
+LaTeX Info: Composite with undeclared \b in encoding L8U on input line 278.
+)
+\pdfxsafeforxmp@toks=\toks18
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+
+Package xcolor Warning: Package option `hyperref' is obsolete and ignored on input line 266.
+
+Package xcolor Info: Driver file: luatex.def on input line 274.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+\pdfx@tmptoks=\toks19
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count196
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count197
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count266
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+\pdfmajorversion=\count267
+Package hyperref Info: Option `pdfa' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count268
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen141
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count269
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode ON on input line 6091.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count270
+\c@Item=\count271
+\c@Hfootnote=\count272
+)
+Package hyperref Info: Driver: hluatex.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+Package hyperref Info: 񑙱.񑙲:=1.4 on input line 240.
+\Fld@listcount=\count273
+\c@bookmark@seq@number=\count274
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip51
+)
+Package hyperref Info: Option `unicode' set `true' on input line 1463.
+Package hyperref Info: Option `psdextra' set `true' on input line 1465.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/psdextra.def
+File: psdextra.def 2024-01-20 v7.01h Hyperref: Additions to PDF string support
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/colorprofiles/colorprofiles.sty
+Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A support
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/colorprofiles/colorprofiles.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfx/AdobeColorProfiles.tex)
+** pdfx: No file Dokument.xmpdata . Metadata will be incomplete!
+<<sRGB.icc>>
+Package hyperref Info: Option `unicode' set `true' on input line 2411.
+Package hyperref Info: Option `unicode' set `true' on input line 2412.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfx/glyphtounicode-ntx.tex) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/xmpincl/xmpincl.sty
+Package: xmpincl 2021/09/22 v2.4 Include XMP data in pdflatex
+)
+Using XMP template file: pdfa.xmp
+\xmpinclWrite=\write3
+\xmpinclRead=\read2
+
+\openout3 = pdfa.xmpi
+<<pdfa.xmpi>>) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen144
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count280
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip17
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks23
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks24
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks25
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count287
+\float@exts=\toks28
+\float@box=\box53
+\@float@everytoks=\toks29
+\@floatcapt=\box54
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks30
+\inpenc@posthook=\toks31
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/notoccite/notoccite.sty
+Package: notoccite 2000/07/20
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip64
+\enit@outerparindent=\dimen155
+\enit@toks=\toks32
+\enit@inbox=\box55
+\enit@count@id=\count288
+\enitdp@description=\count289
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count290
+\LTcapwidth=\dimen156
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count291
+\LT@rows=\count292
+\c@LT@tables=\count293
+\c@LT@chunks=\count294
+\LT@p@ftn=\toks33
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count295
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip69
+\cftbeforetoctitleskip=\skip70
+\cftaftertoctitleskip=\skip71
+\cftbeforepartskip=\skip72
+\cftpartnumwidth=\skip73
+\cftpartindent=\skip74
+\cftbeforechapskip=\skip75
+\cftchapindent=\skip76
+\cftchapnumwidth=\skip77
+\cftbeforesecskip=\skip78
+\cftsecindent=\skip79
+\cftsecnumwidth=\skip80
+\cftbeforesubsecskip=\skip81
+\cftsubsecindent=\skip82
+\cftsubsecnumwidth=\skip83
+\cftbeforesubsubsecskip=\skip84
+\cftsubsubsecindent=\skip85
+\cftsubsubsecnumwidth=\skip86
+\cftbeforeparaskip=\skip87
+\cftparaindent=\skip88
+\cftparanumwidth=\skip89
+\cftbeforesubparaskip=\skip90
+\cftsubparaindent=\skip91
+\cftsubparanumwidth=\skip92
+\cftbeforeloftitleskip=\skip93
+\cftafterloftitleskip=\skip94
+\cftbeforefigskip=\skip95
+\cftfigindent=\skip96
+\cftfignumwidth=\skip97
+\c@lofdepth=\count296
+\c@lotdepth=\count297
+\cftbeforelottitleskip=\skip98
+\cftafterlottitleskip=\skip99
+\cftbeforetabskip=\skip100
+\cfttabindent=\skip101
+\cfttabnumwidth=\skip102
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing out. on input line 1156.
+
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box61
+\beforetitleunit=\skip103
+\aftertitleunit=\skip104
+\ttl@plus=\dimen157
+\ttl@minus=\dimen158
+\ttl@toksa=\toks34
+\titlewidth=\dimen159
+\titlewidthlast=\dimen160
+\titlewidthfirst=\dimen161
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip105
+\calc@Bskip=\skip106
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count300
+\calc@Cskip=\skip107
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen164
+\ESO@tempdimb=\dimen165
+)
+\AM@pagewidth=\dimen166
+\AM@pageheight=\dimen167
+\AM@fboxrule=\dimen168
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2024/01/21 v0.5y Pdfpages driver for LuaTeX (AM)
+)
+\pdfpages@includegraphics@status=\count301
+\AM@pagebox=\box62
+\AM@global@opts=\toks35
+\AM@pagecnt=\count302
+\AM@toc@title=\toks36
+\AM@lof@heading=\toks37
+\c@AM@survey=\count303
+\AM@templatesizebox=\box63
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip108
+\multirow@cntb=\count304
+\multirow@dima=\skip109
+\bigstrutjot=\dimen169
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count305
+\c@continuedfloat=\count306
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count307
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count308
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box64
+\extrarowheight=\dimen179
+\NC@list=\toks38
+\extratabsurround=\skip110
+\backup@length=\skip111
+\ar@cellbox=\box65
+)
+\rotheadsize=\dimen180
+\c@nlinenum=\count309
+\TeXr@lab=\toks39
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
+\everycr=\toks40
+\minrowclearance=\skip112
+\rownum=\count310
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/datetime2/datetime2.sty
+Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/tracklang/tracklang.tex)) (/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks41
+\XKV@tempa@toks=\toks42
+)
+\XKV@depth=\count311
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/datetime2-slovene/datetime2-slovene.ldf
+File: datetime2-slovene.ldf 2019/10/04 v1.1
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/datetime2-slovene/datetime2-slovene-utf8.ldf
+File: datetime2-slovene-utf8.ldf 2019/10/04 v1.1
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count312
+\Gm@cntv=\count313
+\c@Gm@tempcnt=\count314
+\Gm@bindingoffset=\dimen181
+\Gm@wd@mp=\dimen182
+\Gm@odd@mp=\dimen183
+\Gm@even@mp=\dimen184
+\Gm@layoutwidth=\dimen185
+\Gm@layoutheight=\dimen186
+\Gm@layouthoffset=\dimen187
+\Gm@layoutvoffset=\dimen188
+\Gm@dimlist=\toks43
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks44
+\pgfutil@tempdima=\dimen189
+\pgfutil@tempdimb=\dimen190
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box66
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks45
+\pgfkeys@temptoks=\toks46
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks47
+))
+\pgf@x=\dimen191
+\pgf@y=\dimen192
+\pgf@xa=\dimen193
+\pgf@ya=\dimen194
+\pgf@xb=\dimen195
+\pgf@yb=\dimen196
+\pgf@xc=\dimen197
+\pgf@yc=\dimen198
+\pgf@xd=\dimen199
+\pgf@yd=\dimen256
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count315
+\c@pgf@countb=\count316
+\c@pgf@countc=\count317
+\c@pgf@countd=\count318
+\t@pgf@toka=\toks48
+\t@pgf@tokb=\toks49
+\t@pgf@tokc=\toks50
+\pgf@sys@id@count=\count319
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-luatex.def
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
+File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count320
+\pgfsyssoftpath@bigbuffer@items=\count321
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen257
+\pgfmath@count=\count322
+\pgfmath@box=\box67
+\pgfmath@toks=\toks51
+\pgfmath@stack@operand=\toks52
+\pgfmath@stack@operation=\toks53
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count323
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen258
+\pgf@picmaxx=\dimen259
+\pgf@picminy=\dimen260
+\pgf@picmaxy=\dimen261
+\pgf@pathminx=\dimen262
+\pgf@pathmaxx=\dimen263
+\pgf@pathminy=\dimen264
+\pgf@pathmaxy=\dimen265
+\pgf@xx=\dimen266
+\pgf@xy=\dimen267
+\pgf@yx=\dimen268
+\pgf@yy=\dimen269
+\pgf@zx=\dimen270
+\pgf@zy=\dimen271
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen272
+\pgf@path@lasty=\dimen273
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen274
+\pgf@shorten@start@additional=\dimen275
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box68
+\pgf@hbox=\box69
+\pgf@layerbox@main=\box70
+\pgf@picture@serial@count=\count324
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen276
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen277
+\pgf@pt@y=\dimen278
+\pgf@pt@temp=\dimen279
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen280
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen281
+\pgf@sys@shading@range@num=\count325
+\pgf@shadingcount=\count326
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box71
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box72
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen282
+\pgf@nodesepend=\dimen283
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen284
+\pgffor@skip=\dimen285
+\pgffor@stack=\toks54
+\pgffor@toks=\toks55
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count327
+\pgfplotmarksize=\dimen286
+)
+\tikz@lastx=\dimen287
+\tikz@lasty=\dimen288
+\tikz@lastxsaved=\dimen289
+\tikz@lastysaved=\dimen290
+\tikz@lastmovetox=\dimen291
+\tikz@lastmovetoy=\dimen292
+\tikzleveldistance=\dimen293
+\tikzsiblingdistance=\dimen294
+\tikz@figbox=\box73
+\tikz@figbox@bg=\box74
+\tikz@tempbox=\box75
+\tikz@tempbox@bg=\box76
+\tikztreelevel=\count328
+\tikznumberofchildren=\count329
+\tikznumberofcurrentchild=\count330
+\tikz@fig@count=\count331
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count332
+\pgfmatrixcurrentcolumn=\count333
+\pgf@matrix@numberofcolumns=\count334
+)
+\tikz@expandcount=\count335
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+Package pgfplots info on input line 124: Initializing with LUA version Lua 5.3
+\pgfplots@luabackend@table=\catcodetable14
+\t@pgfplots@toka=\toks56
+\t@pgfplots@tokb=\toks57
+\t@pgfplots@tokc=\toks58
+\pgfplots@tmpa=\dimen295
+\c@pgfplots@coordindex=\count336
+\c@pgfplots@scanlineindex=\count337
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks59
+\t@pgf@tokb=\toks60
+\t@pgf@tokc=\toks61
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfutil-common-lists.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/luamath/pgflibraryluamath.code.tex)
+Package pgfplots info on input line 290: luamath library shipped with pgf 3.1.10 is up-to-date
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+Package pgfplots info on input line 82: Found new luatex: initializing lua commands instead of write18 (shell-escape)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count338
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count339
+\t@pgfplotstable@a=\toks62
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count340
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-luatex.def))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen296
+\pgfdecoratedremainingdistance=\dimen297
+\pgfdecoratedinputsegmentcompleteddistance=\dimen298
+\pgfdecoratedinputsegmentremainingdistance=\dimen299
+\pgf@decorate@distancetomove=\dimen300
+\pgf@decorate@repeatstate=\count341
+\pgfdecorationsegmentamplitude=\dimen301
+\pgfdecorationsegmentlength=\dimen302
+)
+\tikz@lib@dec@box=\box77
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count342
+\pgfplots@xmin@reg=\dimen303
+\pgfplots@xmax@reg=\dimen304
+\pgfplots@ymin@reg=\dimen305
+\pgfplots@ymax@reg=\dimen306
+\pgfplots@zmin@reg=\dimen307
+\pgfplots@zmax@reg=\dimen308
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count343
+\l_MT_multwidth_dim=\dimen309
+\origjot=\skip113
+\l_MT_shortvdotswithinadjustabove_dim=\dimen310
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen311
+\l_MT_above_intertext_sep=\dimen312
+\l_MT_below_intertext_sep=\dimen313
+\l_MT_above_shortintertext_sep=\dimen314
+\l_MT_below_shortintertext_sep=\dimen315
+\xmathstrut@box=\box78
+\xmathstrut@dim=\dimen316
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen317
+\WF@size=\dimen318
+\c@WF@wrappedlines=\count344
+\WF@box=\box79
+\WF@everypar=\toks63
+Package: wrapfig 2003/01/31  v 3.6
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-02-20 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count345
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box80
+))
+Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count346
+\l__lipsum_a_int=\count347
+\l__lipsum_b_int=\count348
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+
+Package datetime2 Warning: Region `slovene-utf8' has ignored 
+(datetime2)                the following settings:
+(datetime2)                showdayofmonth=false
+ on input line 112.
+
+(./Dokument.aux)
+\openout1 = Dokument.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 118.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count349
+\scratchdimen=\dimen319
+\scratchbox=\box81
+\nofMPsegments=\count350
+\nofMParguments=\count351
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count352
+\MPscratchDim=\dimen320
+\MPnumerator=\count353
+\makeMPintoPDFobject=\count354
+\everyMPtoPDFconversion=\toks65
+)
+Package hyperref Info: Link coloring OFF on input line 118.
+ (./Dokument.out) (./Dokument.out)
+\@outlinefile=\write5
+
+\openout5 = Dokument.out
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=674.33032pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
+ on input line 118.
+
+(./prveStrani/prveStrani.tex
+Package hyperref Info: Option `pageanchor' set `false' on input line 5.
+ (./prveStrani/platnica.tex) [1
+
+]) (./vsebina.tex (./poglavja/C2-EMWaves.tex
+Chapter 1.
+<slike/spectrum.png, id=684, 587.3142pt x 276.0714pt>
+File: slike/spectrum.png Graphic file (type png)
+<use slike/spectrum.png>
+Package luatex.def Info: slike/spectrum.png  used on input line 9.
+(luatex.def)             Requested size: 241.84843pt x 113.67865pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<slike/Onde_electromagnetique.svg.png, id=688, 2569.6pt x 634.37pt>
+File: slike/Onde_electromagnetique.svg.png Graphic file (type png)
+<use slike/Onde_electromagnetique.svg.png>
+Package luatex.def Info: slike/Onde_electromagnetique.svg.png  used on input line 35.
+(luatex.def)             Requested size: 241.84843pt x 59.70435pt.
+ [1<./slike/spectrum.png><./slike/Onde_electromagnetique.svg.png>]
+warning  (file slike/simplewave.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/simplewave.pdf, id=706, 215.84639pt x 122.3772pt>
+File: slike/simplewave.pdf Graphic file (type pdf)
+<use slike/simplewave.pdf>
+Package luatex.def Info: slike/simplewave.pdf  used on input line 63.
+(luatex.def)             Requested size: 241.84843pt x 137.11938pt.
+<slike/linplanewave.png, id=714, 2569.6pt x 2013.5225pt>
+File: slike/linplanewave.png Graphic file (type png)
+<use slike/linplanewave.png>
+Package luatex.def Info: slike/linplanewave.png  used on input line 102.
+(luatex.def)             Requested size: 193.47578pt x 151.59142pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2<./slike/simplewave.pdf>]
+warning  (file slike/EBfield.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/EBfield.pdf, id=735, 316.3017pt x 127.4361pt>
+File: slike/EBfield.pdf Graphic file (type pdf)
+<use slike/EBfield.pdf>
+Package luatex.def Info: slike/EBfield.pdf  used on input line 130.
+(luatex.def)             Requested size: 241.84843pt x 97.43967pt.
+[3<./slike/linplanewave.png><./slike/EBfield.pdf>]
+<slike/Brewsters-angle.svg.png, id=757, 1180.41pt x 1028.84375pt>
+File: slike/Brewsters-angle.svg.png Graphic file (type png)
+<use slike/Brewsters-angle.svg.png>
+Package luatex.def Info: slike/Brewsters-angle.svg.png  used on input line 178.
+(luatex.def)             Requested size: 120.92421pt x 105.38652pt.
+<slike/linpol.png, id=759, 916.42375pt x 476.78125pt>
+File: slike/linpol.png Graphic file (type png)
+<use slike/linpol.png>
+Package luatex.def Info: slike/linpol.png  used on input line 188.
+(luatex.def)             Requested size: 241.84843pt x 125.82262pt.
+ [4<./slike/Brewsters-angle.svg.png>]
+<slike/circpol.png, id=769, 949.5475pt x 1092.08pt>
+File: slike/circpol.png Graphic file (type png)
+<use slike/circpol.png>
+Package luatex.def Info: slike/circpol.png  used on input line 209.
+(luatex.def)             Requested size: 169.29684pt x 194.69957pt.
+ [5<./slike/linpol.png><./slike/circpol.png>]) [6] (./poglavja/AbsorptionEmission.tex
+Chapter 2.
+
+warning  (file slike/absorption.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/absorption.pdf, id=789, 243.79079pt x 109.3686pt>
+File: slike/absorption.pdf Graphic file (type pdf)
+<use slike/absorption.pdf>
+Package luatex.def Info: slike/absorption.pdf  used on input line 8.
+(luatex.def)             Requested size: 241.84843pt x 108.50052pt.
+
+warning  (file slike/spontem.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/spontem.pdf, id=793, 215.84639pt x 109.3686pt>
+File: slike/spontem.pdf Graphic file (type pdf)
+<use slike/spontem.pdf>
+Package luatex.def Info: slike/spontem.pdf  used on input line 58.
+(luatex.def)             Requested size: 215.84586pt x 109.36832pt.
+
+Overfull \hbox (22.37007pt too wide) in paragraph at lines 58--59
+[][] 
+ []
+
+
+warning  (file slike/stimemm.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/stimemm.pdf, id=794, 215.84639pt x 109.3686pt>
+File: slike/stimemm.pdf Graphic file (type pdf)
+<use slike/stimemm.pdf>
+Package luatex.def Info: slike/stimemm.pdf  used on input line 63.
+(luatex.def)             Requested size: 215.84586pt x 109.36832pt.
+
+Overfull \hbox (22.37007pt too wide) in paragraph at lines 63--64
+[][] 
+ []
+
+[7<./slike/absorption.pdf>]) [8<./slike/spontem.pdf><./slike/stimemm.pdf>] (./poglavja/Lasering.tex
+Chapter 3.
+
+warning  (file slike/rate.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/rate.pdf, id=850, 546.12032pt x 189.8292pt>
+File: slike/rate.pdf Graphic file (type pdf)
+<use slike/rate.pdf>
+Package luatex.def Info: slike/rate.pdf  used on input line 13.
+(luatex.def)             Requested size: 459.51054pt x 159.73059pt.
+
+warning  (file slike/gdist.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/gdist.pdf, id=857, 228.855pt x 228.855pt>
+File: slike/gdist.pdf Graphic file (type pdf)
+<use slike/gdist.pdf>
+Package luatex.def Info: slike/gdist.pdf  used on input line 51.
+(luatex.def)             Requested size: 228.85443pt x 228.85443pt.
+
+Overfull \hbox (35.37865pt too wide) in paragraph at lines 51--52
+[][] 
+ []
+
+
+warning  (file slike/idist.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/idist.pdf, id=858, 228.855pt x 228.855pt>
+File: slike/idist.pdf Graphic file (type pdf)
+<use slike/idist.pdf>
+Package luatex.def Info: slike/idist.pdf  used on input line 56.
+(luatex.def)             Requested size: 228.85443pt x 228.85443pt.
+
+Overfull \hbox (35.37865pt too wide) in paragraph at lines 56--57
+[][] 
+ []
+
+[9<./slike/rate.pdf>]
+warning  (file slike/3lvlsys.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/3lvlsys.pdf, id=896, 251.98138pt x 199.70609pt>
+File: slike/3lvlsys.pdf Graphic file (type pdf)
+<use slike/3lvlsys.pdf>
+Package luatex.def Info: slike/3lvlsys.pdf  used on input line 92.
+(luatex.def)             Requested size: 188.98557pt x 149.77919pt.
+
+warning  (file slike/4lvlsys.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/4lvlsys.pdf, id=897, 262.0992pt x 199.70609pt>
+File: slike/4lvlsys.pdf Graphic file (type pdf)
+<use slike/4lvlsys.pdf>
+Package luatex.def Info: slike/4lvlsys.pdf  used on input line 97.
+(luatex.def)             Requested size: 196.5739pt x 149.77919pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10<./slike/gdist.pdf><./slike/idist.pdf>]
+warning  (file slike/lrb.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/lrb.pdf, id=923, 401.58029pt x 141.6492pt>
+File: slike/lrb.pdf Graphic file (type pdf)
+<use slike/lrb.pdf>
+Package luatex.def Info: slike/lrb.pdf  used on input line 112.
+(luatex.def)             Requested size: 362.77264pt x 127.96507pt.
+
+warning  (file slike/linebroadening.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/linebroadening.pdf, id=926, 318.22888pt x 102.3825pt>
+File: slike/linebroadening.pdf Graphic file (type pdf)
+<use slike/linebroadening.pdf>
+Package luatex.def Info: slike/linebroadening.pdf  used on input line 125.
+(luatex.def)             Requested size: 241.84843pt x 77.80994pt.
+
+warning  (file slike/chart_broadening.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/chart_broadening.pdf, id=928, 305.22029pt x 233.9139pt>
+File: slike/chart_broadening.pdf Graphic file (type pdf)
+<use slike/chart_broadening.pdf>
+Package luatex.def Info: slike/chart_broadening.pdf  used on input line 134.
+(luatex.def)             Requested size: 241.84843pt x 185.34674pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11<./slike/3lvlsys.pdf><./slike/4lvlsys.pdf><./slike/lrb.pdf><./slike/linebroadening.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+
+ []
+
+) [12<./slike/chart_broadening.pdf>] (./poglavja/interference.tex
+Chapter 4.
+
+warning  (file slike/posint.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/posint.pdf, id=1004, 446.62859pt x 215.84639pt>
+File: slike/posint.pdf Graphic file (type pdf)
+<use slike/posint.pdf>
+Package luatex.def Info: slike/posint.pdf  used on input line 11.
+(luatex.def)             Requested size: 362.77264pt x 175.31876pt.
+
+warning  (file slike/negint.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/negint.pdf, id=1007, 446.62859pt x 215.84639pt>
+File: slike/negint.pdf Graphic file (type pdf)
+<use slike/negint.pdf>
+Package luatex.def Info: slike/negint.pdf  used on input line 20.
+(luatex.def)             Requested size: 362.77264pt x 175.31876pt.
+[13<./slike/posint.pdf><./slike/negint.pdf>]
+warning  (file slike/2Dinterference.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/2Dinterference.pdf, id=1034, 334.3692pt x 145.50359pt>
+File: slike/2Dinterference.pdf Graphic file (type pdf)
+<use slike/2Dinterference.pdf>
+Package luatex.def Info: slike/2Dinterference.pdf  used on input line 43.
+(luatex.def)             Requested size: 362.77264pt x 157.87418pt.
+) [14<./slike/2Dinterference.pdf>] (./poglavja/coherence.tex
+Chapter 5.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15]) [16] (./poglavja/resonators.tex
+Chapter 6.
+
+warning  (file slike/res1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/res1.pdf, id=1074, 253.90858pt x 159.71669pt>
+File: slike/res1.pdf Graphic file (type pdf)
+<use slike/res1.pdf>
+Package luatex.def Info: slike/res1.pdf  used on input line 15.
+(luatex.def)             Requested size: 241.84843pt x 152.12967pt.
+
+warning  (file slike/modes.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/modes.pdf, id=1078, 277.035pt x 90.3375pt>
+File: slike/modes.pdf Graphic file (type pdf)
+<use slike/modes.pdf>
+Package luatex.def Info: slike/modes.pdf  used on input line 45.
+(luatex.def)             Requested size: 241.84843pt x 78.86314pt.
+
+warning  (file slike/deltalambda.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/deltalambda.pdf, id=1080, 275.10779pt x 153.6942pt>
+File: slike/deltalambda.pdf Graphic file (type pdf)
+<use slike/deltalambda.pdf>
+Package luatex.def Info: slike/deltalambda.pdf  used on input line 52.
+(luatex.def)             Requested size: 241.84843pt x 135.11761pt.
+[17<./slike/res1.pdf>]
+warning  (file slike/resonator_losses.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/resonator_losses.pdf, id=1104, 303.05219pt x 159.71669pt>
+File: slike/resonator_losses.pdf Graphic file (type pdf)
+<use slike/resonator_losses.pdf>
+Package luatex.def Info: slike/resonator_losses.pdf  used on input line 68.
+(luatex.def)             Requested size: 241.84843pt x 127.46156pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18<./slike/modes.pdf><./slike/deltalambda.pdf>]
+warning  (file slike/activemediumresonator.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/activemediumresonator.pdf, id=1138, 225.7233pt x 324.25137pt>
+File: slike/activemediumresonator.pdf Graphic file (type pdf)
+<use slike/activemediumresonator.pdf>
+Package luatex.def Info: slike/activemediumresonator.pdf  used on input line 105.
+(luatex.def)             Requested size: 145.11053pt x 208.45033pt.
+
+warning  (file slike/gainfunc.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/gainfunc.pdf, id=1141, 223.7961pt x 107.4414pt>
+File: slike/gainfunc.pdf Graphic file (type pdf)
+<use slike/gainfunc.pdf>
+Package luatex.def Info: slike/gainfunc.pdf  used on input line 119.
+(luatex.def)             Requested size: 193.47578pt x 92.88962pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19<./slike/resonator_losses.pdf><./slike/activemediumresonator.pdf>]
+warning  (file slike/typres.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/typres.pdf, id=1180, 378.45387pt x 145.50359pt>
+File: slike/typres.pdf Graphic file (type pdf)
+<use slike/typres.pdf>
+Package luatex.def Info: slike/typres.pdf  used on input line 136.
+(luatex.def)             Requested size: 241.84843pt x 92.98653pt.
+<slike/res_configs.png, id=1184, 1298.8525pt x 806.01125pt>
+File: slike/res_configs.png Graphic file (type png)
+<use slike/res_configs.png>
+Package luatex.def Info: slike/res_configs.png  used on input line 160.
+(luatex.def)             Requested size: 362.77264pt x 225.11586pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20<./slike/gainfunc.pdf><./slike/typres.pdf>]
+Underfull \hbox (badness 2229) in paragraph at lines 183--183
+[]|\TU/lmr/m/n/12 Prop-a-ga-tion through \TU/lmr/m/it/12 mir-
+ []
+
+
+warning  (file slike/lenseff2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/lenseff2.pdf, id=1212, 595.26389pt x 181.6386pt>
+File: slike/lenseff2.pdf Graphic file (type pdf)
+<use slike/lenseff2.pdf>
+Package luatex.def Info: slike/lenseff2.pdf  used on input line 191.
+(luatex.def)             Requested size: 435.32422pt x 132.83618pt.
+[21<./slike/res_configs.png><./slike/lenseff2.pdf>]
+warning  (file slike/ABCD_lens.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/ABCD_lens.pdf, id=1237, 274.1442pt x 109.3686pt>
+File: slike/ABCD_lens.pdf Graphic file (type pdf)
+<use slike/ABCD_lens.pdf>
+Package luatex.def Info: slike/ABCD_lens.pdf  used on input line 267.
+(luatex.def)             Requested size: 338.58632pt x 135.08495pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
+
+ []
+
+[22] [23<./slike/ABCD_lens.pdf>]
+<slike/Laser_resonator_stability.png, id=1268, 2205.23875pt x 2054.67625pt>
+File: slike/Laser_resonator_stability.png Graphic file (type png)
+<use slike/Laser_resonator_stability.png>
+Package luatex.def Info: slike/Laser_resonator_stability.png  used on input line 316.
+(luatex.def)             Requested size: 241.84843pt x 225.32535pt.
+) [24<./slike/Laser_resonator_stability.png>] (./poglavja/BeamProfile.tex
+Chapter 7.
+
+warning  (file slike/slit_photon.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/slit_photon.pdf, id=1276, 290.0436pt x 101.4189pt>
+File: slike/slit_photon.pdf Graphic file (type pdf)
+<use slike/slit_photon.pdf>
+Package luatex.def Info: slike/slit_photon.pdf  used on input line 7.
+(luatex.def)             Requested size: 169.29684pt x 59.19904pt.
+<slike/slit1.png, id=1279, 666.49pt x 600.2425pt>
+File: slike/slit1.png Graphic file (type png)
+<use slike/slit1.png>
+Package luatex.def Info: slike/slit1.png  used on input line 22.
+(luatex.def)             Requested size: 169.29684pt x 152.46906pt.
+[25<./slike/slit_photon.pdf><./slike/slit1.png>]
+
+LaTeX Warning: Reference `tab:ftp' on page 26 undefined on input line 56.
+
+<slike/squareAdiff.png, id=1301, 274.02374pt x 274.02374pt>
+File: slike/squareAdiff.png Graphic file (type png)
+<use slike/squareAdiff.png>
+Package luatex.def Info: slike/squareAdiff.png  used on input line 79.
+(luatex.def)             Requested size: 72.55157pt x 72.55322pt.
+<slike/difSslt.png, id=1304, 498.86375pt x 428.60126pt>
+File: slike/difSslt.png Graphic file (type png)
+<use slike/difSslt.png>
+Package luatex.def Info: slike/difSslt.png  used on input line 93.
+(luatex.def)             Requested size: 120.92421pt x 103.89316pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26<./slike/squareAdiff.png>]
+warning  (file slike/fresnel1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/fresnel1.pdf, id=1317, 316.3017pt x 109.3686pt>
+File: slike/fresnel1.pdf Graphic file (type pdf)
+<use slike/fresnel1.pdf>
+Package luatex.def Info: slike/fresnel1.pdf  used on input line 115.
+(luatex.def)             Requested size: 241.84843pt x 83.62497pt.
+
+warning  (file slike/fresnel2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/fresnel2.pdf, id=1319, 294.13892pt x 109.3686pt>
+File: slike/fresnel2.pdf Graphic file (type pdf)
+<use slike/fresnel2.pdf>
+Package luatex.def Info: slike/fresnel2.pdf  used on input line 123.
+(luatex.def)             Requested size: 241.84843pt x 89.92813pt.
+[27<./slike/difSslt.png><./slike/fresnel1.pdf><./slike/fresnel2.pdf>]
+<slike/fbq1.png, id=1359, 1254.6875pt x 735.74875pt>
+File: slike/fbq1.png Graphic file (type png)
+<use slike/fbq1.png>
+Package luatex.def Info: slike/fbq1.png  used on input line 148.
+(luatex.def)             Requested size: 241.84843pt x 141.8145pt.
+<slike/fbq4.png, id=1361, 1239.63126pt x 759.83875pt>
+File: slike/fbq4.png Graphic file (type png)
+<use slike/fbq4.png>
+Package luatex.def Info: slike/fbq4.png  used on input line 156.
+(luatex.def)             Requested size: 241.84843pt x 148.23172pt.
+ [28<./slike/fbq1.png><./slike/fbq4.png>]
+warning  (file slike/spatialholeburning.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/spatialholeburning.pdf, id=1373, 388.3308pt x 189.8292pt>
+File: slike/spatialholeburning.pdf Graphic file (type pdf)
+<use slike/spatialholeburning.pdf>
+Package luatex.def Info: slike/spatialholeburning.pdf  used on input line 194.
+(luatex.def)             Requested size: 314.40001pt x 153.69417pt.
+<slike/TransverseModes.png, id=1375, 1012.78375pt x 834.11626pt>
+File: slike/TransverseModes.png Graphic file (type png)
+<use slike/TransverseModes.png>
+Package luatex.def Info: slike/TransverseModes.png  used on input line 207.
+(luatex.def)             Requested size: 241.84843pt x 199.17378pt.
+[29<./slike/spatialholeburning.pdf>]
+<slike/tmcr.png, id=1397, 664.4825pt x 801.99625pt>
+File: slike/tmcr.png Graphic file (type png)
+<use slike/tmcr.png>
+Package luatex.def Info: slike/tmcr.png  used on input line 240.
+(luatex.def)             Requested size: 145.11053pt x 175.14255pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `eq:temrec' on page 30 undefined on input line 248.
+
+[30<./slike/TransverseModes.png>]
+<slike/tmrr.png, id=1407, 676.5275pt x 807.015pt>
+File: slike/tmrr.png Graphic file (type png)
+<use slike/tmrr.png>
+Package luatex.def Info: slike/tmrr.png  used on input line 257.
+(luatex.def)             Requested size: 145.11053pt x 173.09848pt.
+) [31<./slike/tmcr.png><./slike/tmrr.png>] (./poglavja/BeamPropagation.tex
+Chapter 8.
+
+warning  (file slike/gbna.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/gbna.pdf, id=1416, 225.7233pt x 117.3183pt>
+File: slike/gbna.pdf Graphic file (type pdf)
+<use slike/gbna.pdf>
+Package luatex.def Info: slike/gbna.pdf  used on input line 8.
+(luatex.def)             Requested size: 290.22107pt x 150.84178pt.
+
+warning  (file slike/gaus_beam.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/gaus_beam.pdf, id=1420, 379.4175pt x 137.5539pt>
+File: slike/gaus_beam.pdf Graphic file (type pdf)
+<use slike/gaus_beam.pdf>
+Package luatex.def Info: slike/gaus_beam.pdf  used on input line 25.
+(luatex.def)             Requested size: 435.32422pt x 157.82472pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32<./slike/gbna.pdf><./slike/gaus_beam.pdf>] [33]
+warning  (file slike/fwhm.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/fwhm.pdf, id=1475, 243.79079pt x 127.4361pt>
+File: slike/fwhm.pdf Graphic file (type pdf)
+<use slike/fwhm.pdf>
+Package luatex.def Info: slike/fwhm.pdf  used on input line 112.
+(luatex.def)             Requested size: 241.84843pt x 126.42462pt.
+<slike/hobtem.png, id=1477, 873.2625pt x 511.9125pt>
+File: slike/hobtem.png Graphic file (type png)
+<use slike/hobtem.png>
+Package luatex.def Info: slike/hobtem.png  used on input line 139.
+(luatex.def)             Requested size: 241.84843pt x 141.7723pt.
+[34<./slike/fwhm.pdf>]
+warning  (file slike/saberation.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/saberation.pdf, id=1497, 129.6042pt x 59.2614pt>
+File: slike/saberation.pdf Graphic file (type pdf)
+<use slike/saberation.pdf>
+Package luatex.def Info: slike/saberation.pdf  used on input line 187.
+(luatex.def)             Requested size: 145.11053pt x 66.356pt.
+[35<./slike/hobtem.png>]
+warning  (file slike/gaussbeampropagation.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/gaussbeampropagation.pdf, id=1509, 131.53139pt x 59.2614pt>
+File: slike/gaussbeampropagation.pdf Graphic file (type pdf)
+<use slike/gaussbeampropagation.pdf>
+Package luatex.def Info: slike/gaussbeampropagation.pdf  used on input line 206.
+(luatex.def)             Requested size: 241.84843pt x 108.97714pt.
+[36<./slike/saberation.pdf><./slike/gaussbeampropagation.pdf>]) [37] (./poglavja/LMI.tex
+Chapter 9.
+
+warning  (file slike/blackbody.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.5', but at most version '1.4' allowed
+<slike/blackbody.pdf, id=1549, 78.72311pt x 69.60805pt>
+File: slike/blackbody.pdf Graphic file (type pdf)
+<use slike/blackbody.pdf>
+Package luatex.def Info: slike/blackbody.pdf  used on input line 28.
+(luatex.def)             Requested size: 145.11053pt x 128.31506pt.
+[38<./slike/blackbody.pdf>]
+warning  (file slike/bandform.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/bandform.pdf, id=1566, 1667.26881pt x 534.07532pt>
+File: slike/bandform.pdf Graphic file (type pdf)
+<use slike/bandform.pdf>
+Package luatex.def Info: slike/bandform.pdf  used on input line 77.
+(luatex.def)             Requested size: 241.84843pt x 77.46745pt.
+
+warning  (file slike/mat_bandgap.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/mat_bandgap.pdf, id=1568, 290.0436pt x 237.7683pt>
+File: slike/mat_bandgap.pdf Graphic file (type pdf)
+<use slike/mat_bandgap.pdf>
+Package luatex.def Info: slike/mat_bandgap.pdf  used on input line 89.
+(luatex.def)             Requested size: 362.77264pt x 297.39827pt.
+[39<./slike/bandform.pdf>] [40<./slike/mat_bandgap.pdf>]
+warning  (file slike/linabs.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/linabs.pdf, id=1603, 198.7425pt x 145.50359pt>
+File: slike/linabs.pdf Graphic file (type pdf)
+<use slike/linabs.pdf>
+Package luatex.def Info: slike/linabs.pdf  used on input line 120.
+(luatex.def)             Requested size: 241.84843pt x 177.06784pt.
+
+warning  (file slike/nonlinabs.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/nonlinabs.pdf, id=1605, 132.495pt x 142.61281pt>
+File: slike/nonlinabs.pdf Graphic file (type pdf)
+<use slike/nonlinabs.pdf>
+Package luatex.def Info: slike/nonlinabs.pdf  used on input line 133.
+(luatex.def)             Requested size: 169.29684pt x 182.23909pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41<./slike/linabs.pdf>]
+
+LaTeX Warning: Reference `fig:tion' on page 42 undefined on input line 140.
+
+
+warning  (file slike/thermion.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/thermion.pdf, id=1626, 202.8378pt x 202.8378pt>
+File: slike/thermion.pdf Graphic file (type pdf)
+<use slike/thermion.pdf>
+Package luatex.def Info: slike/thermion.pdf  used on input line 146.
+(luatex.def)             Requested size: 152.12796pt x 152.12796pt.
+
+warning  (file slike/therionpop.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/therionpop.pdf, id=1627, 228.855pt x 230.7822pt>
+File: slike/therionpop.pdf Graphic file (type pdf)
+<use slike/therionpop.pdf>
+Package luatex.def Info: slike/therionpop.pdf  used on input line 150.
+(luatex.def)             Requested size: 137.31404pt x 138.47038pt.
+[42<./slike/nonlinabs.pdf><./slike/thermion.pdf><./slike/therionpop.pdf>]
+warning  (file slike/plasmadensity.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/plasmadensity.pdf, id=1664, 380.38109pt x 199.70609pt>
+File: slike/plasmadensity.pdf Graphic file (type pdf)
+<use slike/plasmadensity.pdf>
+Package luatex.def Info: slike/plasmadensity.pdf  used on input line 176.
+(luatex.def)             Requested size: 241.84843pt x 126.97345pt.
+[43<./slike/plasmadensity.pdf>]
+<slike/arwl.png, id=1679, 1438.37375pt x 769.87625pt>
+File: slike/arwl.png Graphic file (type png)
+<use slike/arwl.png>
+Package luatex.def Info: slike/arwl.png  used on input line 254.
+(luatex.def)             Requested size: 241.84843pt x 129.44405pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<slike/armi.png, id=1682, 1200.485pt x 676.5275pt>
+File: slike/armi.png Graphic file (type png)
+<use slike/armi.png>
+Package luatex.def Info: slike/armi.png  used on input line 266.
+(luatex.def)             Requested size: 97.94728pt x 55.19688pt.
+<slike/Rangle.png, id=1683, 1149.29375pt x 672.5125pt>
+File: slike/Rangle.png Graphic file (type png)
+<use slike/Rangle.png>
+Package luatex.def Info: slike/Rangle.png  used on input line 272.
+(luatex.def)             Requested size: 97.94728pt x 57.3116pt.
+[44]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<slike/hef1.png, id=1696, 199.74625pt x 313.17pt>
+File: slike/hef1.png Graphic file (type png)
+<use slike/hef1.png>
+Package luatex.def Info: slike/hef1.png  used on input line 331.
+(luatex.def)             Requested size: 54.41551pt x 85.31204pt.
+<slike/hef2.png, id=1697, 293.095pt x 383.4325pt>
+File: slike/hef2.png Graphic file (type png)
+<use slike/hef2.png>
+Package luatex.def Info: slike/hef2.png  used on input line 337.
+(luatex.def)             Requested size: 54.41551pt x 71.18547pt.
+<slike/hef3.png, id=1698, 491.8375pt x 434.62375pt>
+File: slike/hef3.png Graphic file (type png)
+<use slike/hef3.png>
+Package luatex.def Info: slike/hef3.png  used on input line 343.
+(luatex.def)             Requested size: 54.41551pt x 48.08066pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45<./slike/arwl.png><./slike/armi.png><./slike/Rangle.png>] [46<./slike/hef1.png><./slike/hef2.png><./slike/hef3.png>]
+warning  (file slike/tpulses.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/tpulses.pdf, id=1717, 275.10779pt x 124.54529pt>
+File: slike/tpulses.pdf Graphic file (type pdf)
+<use slike/tpulses.pdf>
+Package luatex.def Info: slike/tpulses.pdf  used on input line 392.
+(luatex.def)             Requested size: 241.84843pt x 109.49185pt.
+
+warning  (file slike/prepet.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/prepet.pdf, id=1719, 565.15138pt x 202.8378pt>
+File: slike/prepet.pdf Graphic file (type pdf)
+<use slike/prepet.pdf>
+Package luatex.def Info: slike/prepet.pdf  used on input line 403.
+(luatex.def)             Requested size: 362.77264pt x 130.20572pt.
+) [47<./slike/tpulses.pdf><./slike/prepet.pdf>] (./poglavja/L1.tex
+Chapter 10.
+<slike/cw.png, id=1738, 944.52875pt x 589.20125pt>
+File: slike/cw.png Graphic file (type png)
+<use slike/cw.png>
+Package luatex.def Info: slike/cw.png  used on input line 9.
+(luatex.def)             Requested size: 241.84843pt x 150.86017pt.
+<slike/hene2modes.png, id=1740, 898.35625pt x 603.25375pt>
+File: slike/hene2modes.png Graphic file (type png)
+<use slike/hene2modes.png>
+Package luatex.def Info: slike/hene2modes.png  used on input line 20.
+(luatex.def)             Requested size: 241.84843pt x 162.40202pt.
+<slike/schwebung.png, id=1742, 707.64375pt x 427.5975pt>
+File: slike/schwebung.png Graphic file (type png)
+<use slike/schwebung.png>
+Package luatex.def Info: slike/schwebung.png  used on input line 30.
+(luatex.def)             Requested size: 241.84843pt x 146.13808pt.
+[48<./slike/cw.png><./slike/hene2modes.png>]
+<slike/mmnpl.png, id=1753, 1122.1925pt x 323.2075pt>
+File: slike/mmnpl.png Graphic file (type png)
+<use slike/mmnpl.png>
+Package luatex.def Info: slike/mmnpl.png  used on input line 44.
+(luatex.def)             Requested size: 362.77264pt x 104.4839pt.
+File: slike/mmnpl.png Graphic file (type png)
+<use slike/mmnpl.png>
+Package luatex.def Info: slike/mmnpl.png  used on input line 51.
+(luatex.def)             Requested size: 362.77264pt x 104.4839pt.
+<slike/mmif.png, id=1755, 1214.5375pt x 577.15625pt>
+File: slike/mmif.png Graphic file (type png)
+<use slike/mmif.png>
+Package luatex.def Info: slike/mmif.png  used on input line 60.
+(luatex.def)             Requested size: 241.84843pt x 114.92722pt.
+ [49<./slike/schwebung.png><./slike/mmnpl.png>]
+<slike/em1.png, id=1766, 1443.3925pt x 201.75375pt>
+File: slike/em1.png Graphic file (type png)
+<use slike/em1.png>
+Package luatex.def Info: slike/em1.png  used on input line 72.
+(luatex.def)             Requested size: 362.77264pt x 50.70613pt.
+<slike/em2.png, id=1768, 795.97375pt x 453.695pt>
+File: slike/em2.png Graphic file (type png)
+<use slike/em2.png>
+Package luatex.def Info: slike/em2.png  used on input line 84.
+(luatex.def)             Requested size: 241.84843pt x 137.84717pt.
+ [50<./slike/mmif.png><./slike/em1.png><./slike/em2.png>]
+warning  (file slike/kerreff.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/kerreff.pdf, id=1781, 533.1117pt x 166.7028pt>
+File: slike/kerreff.pdf Graphic file (type pdf)
+<use slike/kerreff.pdf>
+Package luatex.def Info: slike/kerreff.pdf  used on input line 116.
+(luatex.def)             Requested size: 362.77264pt x 113.44032pt.
+[51<./slike/kerreff.pdf>]
+<slike/sesam.png, id=1798, 1298.8525pt x 249.93375pt>
+File: slike/sesam.png Graphic file (type png)
+<use slike/sesam.png>
+Package luatex.def Info: slike/sesam.png  used on input line 144.
+(luatex.def)             Requested size: 362.77264pt x 69.80554pt.
+<slike/sesam2.png, id=1800, 453.695pt x 285.065pt>
+File: slike/sesam2.png Graphic file (type png)
+<use slike/sesam2.png>
+Package luatex.def Info: slike/sesam2.png  used on input line 154.
+(luatex.def)             Requested size: 169.29684pt x 106.37279pt.
+<slike/qswitching.png, id=1802, 939.51pt x 565.11125pt>
+File: slike/qswitching.png Graphic file (type png)
+<use slike/qswitching.png>
+Package luatex.def Info: slike/qswitching.png  used on input line 164.
+(luatex.def)             Requested size: 241.84843pt x 145.46819pt.
+ [52<./slike/sesam.png><./slike/sesam2.png>]) [53<./slike/qswitching.png>] (./poglavja/LaserTypes.tex
+Chapter 11.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (file slike/hene1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/hene1.pdf, id=1819, 384.47638pt x 247.8861pt>
+File: slike/hene1.pdf Graphic file (type pdf)
+<use slike/hene1.pdf>
+Package luatex.def Info: slike/hene1.pdf  used on input line 69.
+(luatex.def)             Requested size: 362.77264pt x 233.89424pt.
+[54]
+<slike/simpsco2.png, id=1831, 758.835pt x 700.6175pt>
+File: slike/simpsco2.png Graphic file (type png)
+<use slike/simpsco2.png>
+Package luatex.def Info: slike/simpsco2.png  used on input line 83.
+(luatex.def)             Requested size: 169.29684pt x 156.3065pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (file slike/n2co2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/n2co2.pdf, id=1833, 1410.22856pt x 1012.74356pt>
+File: slike/n2co2.pdf Graphic file (type pdf)
+<use slike/n2co2.pdf>
+Package luatex.def Info: slike/n2co2.pdf  used on input line 90.
+(luatex.def)             Requested size: 169.29684pt x 121.57034pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55<./slike/hene1.pdf>]
+warning  (file slike/diodeIth.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/diodeIth.pdf, id=1851, 264.02641pt x 266.91718pt>
+File: slike/diodeIth.pdf Graphic file (type pdf)
+<use slike/diodeIth.pdf>
+Package luatex.def Info: slike/diodeIth.pdf  used on input line 125.
+(luatex.def)             Requested size: 169.29684pt x 171.1563pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (file slike/laserdiode2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/laserdiode2.pdf, id=1853, 238.9728pt x 202.8378pt>
+File: slike/laserdiode2.pdf Graphic file (type pdf)
+<use slike/laserdiode2.pdf>
+Package luatex.def Info: slike/laserdiode2.pdf  used on input line 134.
+(luatex.def)             Requested size: 169.29684pt x 143.69704pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[56<./slike/simpsco2.png><./slike/n2co2.pdf>]
+warning  (file slike/diodestack.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/diodestack.pdf, id=1866, 481.8pt x 174.6525pt>
+File: slike/diodestack.pdf Graphic file (type pdf)
+<use slike/diodestack.pdf>
+Package luatex.def Info: slike/diodestack.pdf  used on input line 146.
+(luatex.def)             Requested size: 241.84843pt x 87.66982pt.
+<slike/hpc.png, id=1868, 867.24pt x 593.21625pt>
+File: slike/hpc.png Graphic file (type png)
+<use slike/hpc.png>
+Package luatex.def Info: slike/hpc.png  used on input line 156.
+(luatex.def)             Requested size: 241.84843pt x 165.42958pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[57<./slike/diodeIth.pdf><./slike/laserdiode2.pdf><./slike/diodestack.pdf>]
+warning  (file slike/wlmp.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/wlmp.pdf, id=1901, 457.71pt x 133.45859pt>
+File: slike/wlmp.pdf Graphic file (type pdf)
+<use slike/wlmp.pdf>
+Package luatex.def Info: slike/wlmp.pdf  used on input line 171.
+(luatex.def)             Requested size: 362.77264pt x 105.78137pt.
+
+warning  (file slike/plmp.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/plmp.pdf, id=1902, 123.5817pt x 85.2786pt>
+File: slike/plmp.pdf Graphic file (type pdf)
+<use slike/plmp.pdf>
+Package luatex.def Info: slike/plmp.pdf  used on input line 177.
+(luatex.def)             Requested size: 120.92421pt x 83.44621pt.
+<slike/theffect.png, id=1904, 884.30376pt x 561.09625pt>
+File: slike/theffect.png Graphic file (type png)
+<use slike/theffect.png>
+Package luatex.def Info: slike/theffect.png  used on input line 190.
+(luatex.def)             Requested size: 241.84843pt x 153.45006pt.
+[58<./slike/hpc.png><./slike/wlmp.pdf><./slike/plmp.pdf>] [59<./slike/theffect.png>]
+warning  (file slike/disklaser.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/disklaser.pdf, id=1932, 268.1217pt x 133.45859pt>
+File: slike/disklaser.pdf Graphic file (type pdf)
+<use slike/disklaser.pdf>
+Package luatex.def Info: slike/disklaser.pdf  used on input line 248.
+(luatex.def)             Requested size: 241.84843pt x 120.38449pt.
+<slike/disklaser2.jpg, id=1934, 301.125pt x 201.75375pt>
+File: slike/disklaser2.jpg Graphic file (type jpg)
+<use slike/disklaser2.jpg>
+Package luatex.def Info: slike/disklaser2.jpg  used on input line 258.
+(luatex.def)             Requested size: 169.29684pt x 113.43387pt.
+<slike/ReflexionTotal_en.svg.png, id=1936, 1284.8pt x 852.18375pt>
+File: slike/ReflexionTotal_en.svg.png Graphic file (type png)
+<use slike/ReflexionTotal_en.svg.png>
+Package luatex.def Info: slike/ReflexionTotal_en.svg.png  used on input line 270.
+(luatex.def)             Requested size: 241.84843pt x 160.4082pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ° (U+00B0) in font cmr12!
+[60<./slike/disklaser.pdf><./slike/disklaser2.jpg>]
+warning  (file slike/optfib.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/optfib.pdf, id=1958, 234.8775pt x 88.41031pt>
+File: slike/optfib.pdf Graphic file (type pdf)
+<use slike/optfib.pdf>
+Package luatex.def Info: slike/optfib.pdf  used on input line 285.
+(luatex.def)             Requested size: 241.84843pt x 91.03394pt.
+Missing character: There is no ° (U+00B0) in font cmr12!
+Missing character: There is no ° (U+00B0) in font cmr12!
+[61<./slike/ReflexionTotal_en.svg.png><./slike/optfib.pdf>]
+<slike/rof.png, id=1980, 454.69875pt x 220.825pt>
+File: slike/rof.png Graphic file (type png)
+<use slike/rof.png>
+Package luatex.def Info: slike/rof.png  used on input line 324.
+(luatex.def)             Requested size: 241.84843pt x 117.4545pt.
+
+warning  (file slike/Ifiber.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/Ifiber.pdf, id=1982, 1476.47606pt x 391.4625pt>
+File: slike/Ifiber.pdf Graphic file (type pdf)
+<use slike/Ifiber.pdf>
+Package luatex.def Info: slike/Ifiber.pdf  used on input line 339.
+(luatex.def)             Requested size: 362.77264pt x 96.18092pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[62<./slike/rof.png>]
+<slike/fcouper.pdf, id=1991, 845.04689pt x 597.50789pt>
+File: slike/fcouper.pdf Graphic file (type pdf)
+<use slike/fcouper.pdf>
+Package luatex.def Info: slike/fcouper.pdf  used on input line 366.
+(luatex.def)             Requested size: 241.84843pt x 171.00266pt.
+<slike/fbg.png, id=1993, 509.905pt x 235.88126pt>
+File: slike/fbg.png Graphic file (type png)
+<use slike/fbg.png>
+Package luatex.def Info: slike/fbg.png  used on input line 376.
+(luatex.def)             Requested size: 169.29684pt x 78.31615pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[63<./slike/Ifiber.pdf><./slike/fcouper.pdf>]
+warning  (file slike/flr.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/flr.pdf, id=2008, 435.54718pt x 174.6525pt>
+File: slike/flr.pdf Graphic file (type pdf)
+<use slike/flr.pdf>
+Package luatex.def Info: slike/flr.pdf  used on input line 402.
+(luatex.def)             Requested size: 362.77264pt x 145.4732pt.
+
+warning  (file slike/fopt.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/fopt.pdf, id=2010, 171.7617pt x 75.40169pt>
+File: slike/fopt.pdf Graphic file (type pdf)
+<use slike/fopt.pdf>
+Package luatex.def Info: slike/fopt.pdf  used on input line 416.
+(luatex.def)             Requested size: 169.29684pt x 74.32343pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[64<./slike/fbg.png><./slike/flr.pdf>]) [65<./slike/fopt.pdf>] (./poglavja/LaserDrilling.tex
+Chapter 12.
+<slike/ldm.png, id=2039, 742.775pt x 565.11125pt>
+File: slike/ldm.png Graphic file (type png)
+<use slike/ldm.png>
+Package luatex.def Info: slike/ldm.png  used on input line 18.
+(luatex.def)             Requested size: 193.47578pt x 147.19276pt.
+<slike/meltflow.png, id=2041, 368.37625pt x 393.47pt>
+File: slike/meltflow.png Graphic file (type png)
+<use slike/meltflow.png>
+Package luatex.def Info: slike/meltflow.png  used on input line 26.
+(luatex.def)             Requested size: 120.92421pt x 129.16106pt.
+<slike/ldep.png, id=2043, 584.1825pt x 353.32pt>
+File: slike/ldep.png Graphic file (type png)
+<use slike/ldep.png>
+Package luatex.def Info: slike/ldep.png  used on input line 34.
+(luatex.def)             Requested size: 193.47578pt x 117.01646pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[66<./slike/ldm.png><./slike/meltflow.png>]
+<slike/ablthr.png, id=2054, 324.21124pt x 440.64626pt>
+File: slike/ablthr.png Graphic file (type png)
+<use slike/ablthr.png>
+Package luatex.def Info: slike/ablthr.png  used on input line 53.
+(luatex.def)             Requested size: 120.92421pt x 164.3544pt.
+ [67<./slike/ldep.png><./slike/ablthr.png>]
+<slike/atillt.png, id=2067, 1654.18pt x 454.69875pt>
+File: slike/atillt.png Graphic file (type png)
+<use slike/atillt.png>
+Package luatex.def Info: slike/atillt.png  used on input line 86.
+(luatex.def)             Requested size: 241.84843pt x 66.47427pt.
+<slike/taper.png, id=2069, 1222.5675pt x 855.195pt>
+File: slike/taper.png Graphic file (type png)
+<use slike/taper.png>
+Package luatex.def Info: slike/taper.png  used on input line 96.
+(luatex.def)             Requested size: 241.84843pt x 169.16994pt.
+<slike/helical.png, id=2071, 585.18625pt x 238.8925pt>
+File: slike/helical.png Graphic file (type png)
+<use slike/helical.png>
+Package luatex.def Info: slike/helical.png  used on input line 111.
+(luatex.def)             Requested size: 241.84843pt x 98.73027pt.
+ [68<./slike/atillt.png><./slike/taper.png>]
+<slike/oinclination.png, id=2082, 519.9425pt x 309.155pt>
+File: slike/oinclination.png Graphic file (type png)
+<use slike/oinclination.png>
+Package luatex.def Info: slike/oinclination.png  used on input line 141.
+(luatex.def)             Requested size: 241.84843pt x 143.80275pt.
+) [69<./slike/helical.png><./slike/oinclination.png>] (./poglavja/LaserCutting.tex
+Chapter 13.
+<slike/gasnozzle.png, id=2093, 548.0475pt x 485.815pt>
+File: slike/gasnozzle.png Graphic file (type png)
+<use slike/gasnozzle.png>
+Package luatex.def Info: slike/gasnozzle.png  used on input line 14.
+(luatex.def)             Requested size: 241.84843pt x 214.38936pt.
+[70<./slike/gasnozzle.png>]
+<slike/cspeed.png, id=2102, 532.99126pt x 398.48875pt>
+File: slike/cspeed.png Graphic file (type png)
+<use slike/cspeed.png>
+Package luatex.def Info: slike/cspeed.png  used on input line 44.
+(luatex.def)             Requested size: 241.84843pt x 180.81407pt.
+<slike/cpolabs.png, id=2104, 325.215pt x 284.06125pt>
+File: slike/cpolabs.png Graphic file (type png)
+<use slike/cpolabs.png>
+Package luatex.def Info: slike/cpolabs.png  used on input line 86.
+(luatex.def)             Requested size: 241.84843pt x 211.25095pt.
+ [71<./slike/cspeed.png>]) [72<./slike/cpolabs.png>] (./poglavja/LaserJoining.tex
+Chapter 14.
+<slike/energy.png, id=2121, 755.82375pt x 463.7325pt>
+File: slike/energy.png Graphic file (type png)
+<use slike/energy.png>
+Package luatex.def Info: slike/energy.png  used on input line 15.
+(luatex.def)             Requested size: 97.94728pt x 60.0892pt.
+<slike/keyhole_parts.png, id=2122, 420.57124pt x 431.6125pt>
+File: slike/keyhole_parts.png Graphic file (type png)
+<use slike/keyhole_parts.png>
+Package luatex.def Info: slike/keyhole_parts.png  used on input line 22.
+(luatex.def)             Requested size: 97.94728pt x 100.5201pt.
+<slike/humping.png, id=2124, 626.34pt x 368.37625pt>
+File: slike/humping.png Graphic file (type png)
+<use slike/humping.png>
+Package luatex.def Info: slike/humping.png  used on input line 35.
+(luatex.def)             Requested size: 241.84843pt x 142.23842pt.
+<slike/weld_mstr.png, id=2126, 1575.8875pt x 911.405pt>
+File: slike/weld_mstr.png Graphic file (type png)
+<use slike/weld_mstr.png>
+Package luatex.def Info: slike/weld_mstr.png  used on input line 50.
+(luatex.def)             Requested size: 362.77264pt x 209.79953pt.
+[73<./slike/energy.png><./slike/keyhole_parts.png><./slike/humping.png>]
+<slike/ge.png, id=2137, 1580.90625pt x 1672.2475pt>
+File: slike/ge.png Graphic file (type png)
+<use slike/ge.png>
+Package luatex.def Info: slike/ge.png  used on input line 73.
+(luatex.def)             Requested size: 362.77264pt x 383.71576pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[74<./slike/weld_mstr.png>] [75<./slike/ge.png>]
+<slike/lassol.png, id=2156, 2013.5225pt x 395.4775pt>
+File: slike/lassol.png Graphic file (type png)
+<use slike/lassol.png>
+Package luatex.def Info: slike/lassol.png  used on input line 126.
+(luatex.def)             Requested size: 459.51054pt x 90.25188pt.
+
+Underfull \hbox (badness 3049) in paragraph at lines 145--145
+\TU/lmr/bx/n/12 ing with fo-cused laser
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 147--148
+[]|\TU/lmr/m/n/12 Tai-lored light so that the
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 151--151
+[]|\TU/lmr/m/n/12 Can be tem-per-a-ture con-
+ []
+
+<slike/conturWeld.png, id=2157, 233.87375pt x 197.73875pt>
+File: slike/conturWeld.png Graphic file (type png)
+<use slike/conturWeld.png>
+Package luatex.def Info: slike/conturWeld.png  used on input line 153.
+(luatex.def)             Requested size: 145.11053pt x 122.69632pt.
+<slike/galvoweld.png, id=2158, 257.96375pt x 197.73875pt>
+File: slike/galvoweld.png Graphic file (type png)
+<use slike/galvoweld.png>
+Package luatex.def Info: slike/galvoweld.png  used on input line 153.
+(luatex.def)             Requested size: 145.11053pt x 111.23682pt.
+
+Overfull \hbox (3.73763pt too wide) in paragraph at lines 143--156
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[76<./slike/lassol.png>]) [77<./slike/conturWeld.png><./slike/galvoweld.png>] (./poglavja/Nonlinear.tex
+Chapter 15.
+
+warning  (file slike/OptNonLin.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/OptNonLin.pdf, id=2174, 401.58029pt x 215.84639pt>
+File: slike/OptNonLin.pdf Graphic file (type pdf)
+<use slike/OptNonLin.pdf>
+Package luatex.def Info: slike/OptNonLin.pdf  used on input line 10.
+(luatex.def)             Requested size: 362.77264pt x 194.9944pt.
+[78<./slike/OptNonLin.pdf>]
+warning  (file slike/EMwIO.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/EMwIO.pdf, id=2191, 374.3586pt x 186.6975pt>
+File: slike/EMwIO.pdf Graphic file (type pdf)
+<use slike/EMwIO.pdf>
+Package luatex.def Info: slike/EMwIO.pdf  used on input line 81.
+(luatex.def)             Requested size: 217.66211pt x 108.5524pt.
+[79<./slike/EMwIO.pdf>]
+warning  (file slike/secharm.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/secharm.pdf, id=2203, 346.4142pt x 219.70079pt>
+File: slike/secharm.pdf Graphic file (type pdf)
+<use slike/secharm.pdf>
+Package luatex.def Info: slike/secharm.pdf  used on input line 95.
+(luatex.def)             Requested size: 241.84843pt x 153.38385pt.
+
+warning  (file slike/Shgapp1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
+<slike/Shgapp1.pdf, id=2205, 246.9225pt x 109.3686pt>
+File: slike/Shgapp1.pdf Graphic file (type pdf)
+<use slike/Shgapp1.pdf>
+Package luatex.def Info: slike/Shgapp1.pdf  used on input line 128.
+(luatex.def)             Requested size: 241.84843pt x 107.12039pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[80<./slike/secharm.pdf>]
+<slike/thg.png, id=2223, 759.83875pt x 667.49374pt>
+File: slike/thg.png Graphic file (type png)
+<use slike/thg.png>
+Package luatex.def Info: slike/thg.png  used on input line 167.
+(luatex.def)             Requested size: 241.84843pt x 212.45145pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[81<./slike/Shgapp1.pdf>]
+<slike/cpa.png, id=2240, 932.48375pt x 585.18625pt>
+File: slike/cpa.png Graphic file (type png)
+<use slike/cpa.png>
+Package luatex.def Info: slike/cpa.png  used on input line 200.
+(luatex.def)             Requested size: 362.77264pt x 227.65918pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[82<./slike/thg.png>]) [83<./slike/cpa.png>] (./poglavja/Additive.tex
+Chapter 16.
+<slike/ded.png, id=2252, 706.64pt x 541.02126pt>
+File: slike/ded.png Graphic file (type png)
+<use slike/ded.png>
+Package luatex.def Info: slike/ded.png  used on input line 59.
+(luatex.def)             Requested size: 241.84843pt x 185.16656pt.
+[84])) [85<./slike/ded.png>] (./Dokument.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `Dokument.out' has not changed.
+(rerunfilecheck)             Checksum: FC5536DF6BCC968F7293A4148017D4CF;13728.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 45131 strings out of 476447
+ 100000,1977958 words of node,token memory allocated
+ 1072 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 90 attribute, 100 glue_spec, 90 attribute_list, 2 write nodes
+   avail lists: 2:924,3:270,4:82,5:477,6:67,7:5890,8:82,9:813,10:13,11:435
+ 65218 multiletter control sequences out of 65536+600000
+ 49 fonts using 3529047 bytes
+ 99i,17n,97p,886b,2835s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Dokument.pdf (86 pages, 54981360 bytes).
+
+PDF statistics: 2373 PDF objects out of 2487 (max. 8388607)
+ 433 named destinations out of 1000 (max. 131072)
+ 1367 words of extra memory for PDF output out of 10000 (max. 100000000)
+

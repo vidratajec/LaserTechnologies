@@ -1,0 +1,90 @@
+\chapter{Absorption and Emission}
+
+\section{Absorption}
+When a photon travels through matter - atoms - can be absorbed, as shown on figure
+\ref{fig:absorption1}.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{slike/absorption.pdf}
+    \caption{Absorption of an electron}
+    \label{fig:absorption1}
+\end{figure}
+
+There must be a \textbf{free orbital} with the right dipole moment that is energetically above the currently excited state and an 
+exciting EM-wave with the correct energy (and $\lambda$).
+
+\section{Emission}
+Emission can be \textbf{sponatneous} or \textbf{stimulated}.
+
+
+
+
+\subsection{Stimulated emission}
+Stimulated emission, figure \ref{fig:stimem}, is same as time reversed absorption. There must be a free orbital with the correct dipole moment that is energetically
+below the currently excited state and an exciting EM-wave with the correct energy (and $\lambda$).
+Atom's orbital lifetime has no influence on wavelength of the emitted photon.
+
+% \begin{itemize}
+%     \item The charge distribution will first oscilate with the frequency of the incoming EM-wave
+%     \item If the oscilatinating charge resembles a fitting orbital with a lower energy there is a chance that an electron will hop into this lower
+%     energy orbital, it will emit a photon.
+%     \item 
+Emitted photon has the same: \begin{itemize}
+        \item \textbf{wavelength } $\lambda$
+        \item \textbf{frequency} $\nu$
+        \item \textbf{polarization}
+        \item \textbf{phase}
+        \item \textbf{propagation direction}
+    \end{itemize}
+%\end{itemize}
+
+Frequency of the emitted or absorbed EM-wave is proportional to the
+energy difference between $\Delta E$ in the atomic levels according to equation \ref{eq:aeeq}.
+\begin{equation}
+    E_{photon} = \Delta E = E_2 - E_1 = h \cdot \nu
+    \label{eq:aeeq}
+\end{equation}
+Where $h$ is the \textit{Planck constant}, which is equal to  $6.626 \times 10^{-34} \, \frac{J}{Hz}$ or $4.135 \times 10^{-15} \,\frac{eV}{Hz}$.
+
+
+\subsection{Spontaneous emission}
+
+Spontaneous emission, figure \ref{fig:spem}, is a process in which a quantum system - mulecule, atom, particle - 
+transits from an excited state to a lower state.  When a photon is emitted douring spontaneous emisson, it has random \textbf{polarization}, \textbf{propagation direction} and \textbf{random phase}.
+The range of emitted oscillations frequencies depends on the stability of atomic orbitals.
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[scale=1]{slike/spontem.pdf}
+        \caption{Spontaneous emission}
+        \label{fig:spem}
+    \end{subfigure}
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[scale=1]{slike/stimemm.pdf}
+        \caption{Stimulated emission}
+        \label{fig:stimem}
+    \end{subfigure}
+\end{figure}
+
+There is always some sponatneous emission in a laser, it depends on the environment, laser ...
+
+
+\subsection{Line broadening}
+
+\textbf{Heisenberg's uncertanty} principle for energy and time is the law governing the relationship between orbital life times and frequencies, equation \ref{eq:heis}.
+\begin{equation}
+    \delta E \cdot \delta t = \frac{h}{4 \pi}
+    \label{eq:heis}
+\end{equation}
+
+Where $h$ is the \textit{Planck constant}, $\delta t$ the lifetime of the excited state and $\delta E$ is the range of photon energies taht cen be emitted from an excited state.
+Taking line broadening into account, the computation of photon energy $E_{photon}$ is now \ref{eq:ep2}.
+Line broadening is represented by equation \ref{eq:dnu}.
+\begin{equation}
+    E_{photon} = \Delta E \pm \delta E = h (\nu \pm \delta \nu) \\
+    \label{eq:ep2}
+\end{equation}
+\begin{equation}
+    \delta \nu = \frac{1}{2 \pi \delta t}
+    \label{eq:dnu}
+\end{equation}

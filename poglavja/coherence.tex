@@ -1,0 +1,80 @@
+\chapter{Coherence}
+
+To determine the interoperability - ability to interfere - of two EM-waves we compare them at
+different \textbf{time} and \textbf{location}. Comparison is done using the \textit{correlation equation} - \ref{eq:correlation}.
+\begin{equation}
+    \int E_1(x,t) \cdot E_{2}^* (x',t+\tau) d\tau
+    \label{eq:correlation}
+\end{equation}
+
+We will use some simplifications:
+\begin{enumerate}
+    \item Absorption works perfectly and is instantaneous
+    \item Emitted EM-wave has the same direction, but a random phase
+    \item EM-wave is infinite and has a random phase
+    \item Wavelength $\lambda$ is not always the same - wavelength fluctuations
+    \item Amplitude is not constant - power fluctuations 
+\end{enumerate}
+We can use the equation for a simplified wave $A(x,t) = A_0 cos(kx - \omega t + \varphi)$,
+due to the simplifications 4. and 5., the $\omega t$ becomes the random component.
+Connection between this and line-broadening/uncertainty means that the size of phase space in time and frequency
+cannot be smaller than $\delta \nu \cdot \tau  \ge \frac{1}{4 \pi}$.
+This phase space will not change unless it loses or gains energy.
+Product $\delta \nu \cdot  \tau$ is also called \textbf{time-bandwidth product}.
+
+Consequences of this are:
+\begin{itemize}
+    \item Transitions that are long-lived states provide better wavelength and intensity stability
+    \item If $\delta \nu \cdot \tau >> \frac{1}{4\pi}$ wave will have \textbf{strong and random intensity fluctuations} $\rightarrow$ the wave will not interfere with itself
+\end{itemize}
+The ability of the wave to interfere is called \textbf{coherence}.
+Coherence time is the duration during which all the emitted waves can interfere with each other, calculated by \ref{eq:tcoh}.
+\begin{equation}
+    \tau_{coh} = \frac{1}{\Delta \nu}
+    \label{eq:tcoh}
+\end{equation}
+Where $\Delta \nu$ is measured at $FWHM$. \textbf{Coherence length} is a distance across two waves can interfere, calculated as \ref{eq:lcoh}.
+\begin{equation}
+    L_{coh} = c \cdot \tau_{coh}
+    \label{eq:lcoh}
+\end{equation}
+
+Examples of coherence length for different light sources are show in table \ref{tab:clen}.
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|c|c|c|}
+        \hline
+        Light source & Wavelength $\lambda$ & Coherence length $L_{coh}$ \\
+        \hline
+        HeNe single mode & 633 nm & 100 m \\
+        \hline
+        Argon ion & 488/515 nm & 20 mm \\
+        \hline
+        GaAIAs, Single mode& 670-905 nm & 3 m\\
+        \hline
+        Sodium lamp & 2 lines @ 589 nm & 0.6mm \\
+        \hline  
+        Sunlight & 500 nm & 1 $\mu m$ \\
+        \hline     
+    \end{tabular}
+    \caption{Coherence length}
+    \label{tab:clen}
+\end{table}
+
+\section{Beam Parameter Product}
+Beam parameter product  or BPP is defined as a product of \textbf{beam radius} at waist and \textbf{beam divergence}.
+
+In equation $A(r,t) = A_0 cos(kr - \omega t + \varphi)$ - (\ref{eq:wave}), we have the factors $k,r$. We wish to find a connection between them.
+The factors $k$ and $r$ are connected via:
+\begin{itemize}
+    \item Position-momentum uncertainty: $\Delta x \Delta p_x \ge \frac{h}{4 \pi}$
+    \item Fourier transition: space $\leftrightarrow$ spatial frequency (wave vector $k$)
+\end{itemize}
+
+Beam parameter product is : $\delta k \cdot \delta r \ge \, const$
+
+Beam parameter product and time-bandwidth product are a consequence of same fundamental laws, meaning that BPP cannot be smaller
+than a certain value, which means that light cannot be focused below a certain focal spot size.
+
+%maybe add a picture?
+

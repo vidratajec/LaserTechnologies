@@ -1,0 +1,171 @@
+\chapter{Lasering (and so on and so on)}
+
+\section{Population and Rate equation}
+
+\textbf{Population} means how many atoms of an atomic ensemble are in a certain \textbf{state}.
+State refers to the energy level or orbital that electrons are in - such as ground state, $1^{st}$ orbital, $2^{nd}$ orbital, $\dots$
+
+Number of atoms in a certain state can be described by the \textbf{rate equations}. Figure \ref{fig:rate} show the emission and absorption with the equations that 
+are in the laser.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.95\textwidth]{slike/rate.pdf}
+    \caption{Emission and absorption with equations}
+    \label{fig:rate}
+\end{figure}
+
+Equation \ref{eq:rate_abs} calculates the state of population during \textbf{absorption}. Variable $q$ is equal to spectral photon energy density of input/incoming light. $N_i$ is
+the population density of level $i$. Coefficients $A_{ij}$ and $B_{ij}$ are \textit{Einstein coefficients} for between levels.\\ \textit{Note:}$B_{ij} \;=\; B_{ji}$
+\begin{equation}
+    \frac{dN_1}{dt} = -N_1 q B_{12}
+    \label{eq:rate_abs}
+\end{equation}
+Equation \ref{eq:rate_spem} shows the rate of \textbf{spontaneous emission}. It is \textit{not} dependent on $q$.
+
+\begin{equation}
+    \frac{dN_2}{dt} = -A_{21}N_2
+    \label{eq:rate_spem}
+\end{equation}
+Equation \ref{eq:rate_stem} shows the rate of \textbf{stimulated emission}.
+\begin{equation}
+    \frac{dN_2}{dt} = -N_2 q B_{21}
+    \label{eq:rate_stem}
+\end{equation}
+
+Relationship between $A_{21}$ and $B_{21}$ is $ \frac{A_{21}}{B_{21}} = \frac{8 \pi h \nu^3}{c^3} $.
+
+Change of photon (population) density through propagation in $x$ direction through a
+given population distribution $N_2$ and $N_1$  is called \textbf{Lambert-Beer law} - equation \ref{eq:lbl}.
+\begin{eqnarray}
+    q(x) = q_0 \cdot e^{\frac{B_{12} h \nu}{c}(N_2 -N_1)x}
+    \label{eq:lbl}
+\end{eqnarray}
+In order to have light \textbf{amplification}, population $N_2$ must be bigger that $N_1$, this is called \textbf{inverse population}.
+
+\section{Boltzmann distribution}
+Figures \ref{fig:gdist} and \ref{fig:idist} show the ground (normal) and inverse population distribution.
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[scale=1]{slike/gdist.pdf}
+        \caption{Equilibrium population}
+        \label{fig:gdist}
+    \end{subfigure}
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[scale=1]{slike/idist.pdf}
+        \caption{Inverse population}
+        \label{fig:idist}
+    \end{subfigure}
+\end{figure}
+ In $N_j - N_i < 0$, the population is in \textbf{thermodynamic equilibrium}, if $N_j - N_i > 0 $ in a laser
+active medium we have \textbf{inverse population}.
+
+Boltzmann distribution can be calculated as \ref{eq:boltz}.
+\begin{equation}
+    \frac{N_2}{N_1} = \frac{g_2}{g_1} exp(-\frac{E_2 - E_1}{kT})
+    \label{eq:boltz}
+\end{equation}
+Where $E_i$ is the energy value of the state, $T$ is the absolute temperature,
+$k$ is the \textit{Boltzmann constant},$k = 1.38 \times 10^{-23} \frac{J}{K} = 8.63 \times 10^{-5}\, \frac{eV}{K}$, and $g_i$ is the number of sublevels of state $i$.
+For non-degenerate states $g_2 = g_1 = 1$.
+In a two level system, inverse population is \textbf{not possible}:
+\begin{gather}
+    \frac{dN_1}{dt} = -N_1 q B_{12} + N_2 q B_{21} + A_{21} N_2 = q B_{12} (N_2 - N_1) + A_{21}N_2 \\
+    \frac{dN_2}{dt} = +N_1 q B_{12} - N_2 q B_{21} - A_{21} N_2 = q B_{12} (N_2 - N_1) + A_{21}N_2 \\
+    \frac{dN_2}{dt} = -\frac{dN_1}{dt}
+\end{gather}
+The fill up rate  is same as the depletion rate.
+Inverse population is therefore \textbf{not possible}, there is no net optical gain.
+To achieve inverse population, we need a higher level system.
+
+\section{Three and four level systems}
+Figure \ref{fig:3lvlsys} show the levels of a 3 level system and the transitions.
+
+Transition $1$ shows the pumping of, transition $2$ is a radiationless transition, the $3$ transition is the laser transition.
+
+Figure \ref{fig:4lvlsys} show a simplified 4 level system. Laser transition is between laser and depletion level, transition $3$. 
+
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}{0.45\textwidth}
+        \includegraphics[scale=0.75]{slike/3lvlsys.pdf}
+        \caption{Three level system}
+        \label{fig:3lvlsys}
+    \end{subfigure}
+    \begin{subfigure}{0.45\textwidth}
+        \includegraphics[scale=0.75]{slike/4lvlsys.pdf}
+        \caption{Four level system}
+        \label{fig:4lvlsys}
+    \end{subfigure}
+
+\end{figure}
+
+\section{Laser line broadening}
+
+An ideal monochromatic wave has a \textbf{single } $\nu$ or $\lambda$ - spectral width is zero. 
+In reality, every light source has a \textbf{spectral width greater than zero}.
+Shape of the realistic spectrum is shown on figure \ref{fig:bls}. The shape is given by a density function.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.75\textwidth]{slike/lrb.pdf}
+    \caption{Spectral line broadening}
+    \label{fig:bls}
+\end{figure}
+
+Equation \ref{eq:linebroadening} show the relation between linewidth and frequency.
+\begin{equation}
+    \Delta \nu \approx \frac{c}{\lambda^2} \Delta \lambda
+    \label{eq:linebroadening}
+\end{equation}
+Figure \ref{fig:lb} show line broadening effect in an energy(?) diagram.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{slike/linebroadening.pdf}
+    \caption{Line broadening}
+    \label{fig:lb}
+\end{figure}
+
+\subsection{Types of line-broadening}
+Different line broadening mechanisms are shown on figure \ref{fig:chart_broad}.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{slike/chart_broadening.pdf}
+    \caption{Chart of line broadening mechanisms}
+    \label{fig:chart_broad}
+\end{figure}
+
+\subsubsection{Homogenous broadening}
+\textbf{Lifetime broadening}\\
+The \textbf{Heisenberg uncertainty principle}, $\delta E = \frac{h}{4 \pi \tau}$ relates the lifetime of a certain state $\tau$
+with its energy. This broadening effect results in an unshifted Lorentzian profile.
+Photon energy of a transition is $E_{photon} = E_2 - E_1 = h \cdot \nu$.
+Lifetime broadening is calculated as \ref{eq:lftb}.
+\begin{equation}
+    \Delta \nu = \frac{1}{2 \pi} (\frac{1}{\tau_1} + \frac{1}{\tau_2})
+    \label{eq:lftb}
+\end{equation}
+Factor $\frac{1}{2 \pi}$ depends on the shape of the curve or where it is measured.\\
+
+% \subsubsection{Homogenous }
+\textbf{Collision/pressure broadening}\\
+Each particle collision can act as a trigger for a spontaneous decay, this happens to each particle regardless of its other
+properties. Collision broadening is calculated as \ref{eq:cbrd}.
+\begin{equation}
+    \Delta \nu = \frac{f_{coll}}{\pi}
+    \label{eq:cbrd}
+\end{equation}
+
+\textbf{Combined homogenous broadening} is $\Delta \nu_{hom} = \frac{1}{2}(\frac{1}{\tau_1} + \frac{1}{\tau_2} + 2 f_{coll})$.
+
+\subsubsection{Inhomogenous broadening}
+\textbf{Doppler broadening}\\
+Doppler line broadening occurs due to the \textbf{Doppler shift} - $\Delta f_D$. The frequency changes according to equation \ref{eq:dopbr}.
+\begin{equation}
+    f_D = f_0 \pm (\frac{v}{c})\cdot f_0
+    \label{eq:dopbr}
+\end{equation}
+Where $v$ is the speed of the observer, $c$ the speed of light and $f_0$ the original frequency.
+
+\textbf{Combined inhomogenous broadening} is $\Delta \nu_{inh} = ?????$.

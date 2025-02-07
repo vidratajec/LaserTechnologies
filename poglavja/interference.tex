@@ -1,0 +1,50 @@
+\chapter{Interference}
+We will consider plane wave in one dimension - figure \ref{fig:simplewave}.
+Two (or more) such waves can have \textbf{constructive} or \textbf{destructive interference}.
+Figure \ref{fig:posint} shows \textbf{constructive} interference, bot waves add, according to equation \ref{eq:posint}.
+\begin{equation}
+    A_{01} + A_{02}  = A_{01} \cdot sin(kx + \omega t) + A_{02} \cdot sin(kx + \omega t) = (A_{01}+ A_{02}) \cdot sin(kx + \omega t)
+    \label{eq:posint}
+\end{equation}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.75\textwidth]{slike/posint.pdf}
+    \caption{Constructive interference}
+    \label{fig:posint}
+\end{figure}
+
+\textbf{Destructive} interferance is shown on figure \ref{fig:negint}, equation is the same as \ref{eq:posint}, but due to the waves being in opposite phase
+$(A_{01}+ A_{02})$ is equal to $(A_{01} - A_{02}) = 0$
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.75\textwidth]{slike/negint.pdf}
+    \caption{Destructive interference}
+    \label{fig:negint}
+\end{figure}
+
+In both cases, waves have the same phase with different signs. When the phase shift is arbitrary,
+interference still happens. 
+Equation \ref{eq:interferance} is used to calculate the output.
+\begin{equation}
+    E(x,t) = \frac{E_0}{2} (e^{i(kx - \omega t + \varphi)} + e^{-i(kx - \omega t + \varphi)}) = E_0 \cdot cos(kx - \omega t + \varphi)
+    \label{eq:interferance}
+\end{equation}
+Intensity is equal to $I(t) = E(t) + E(t)^*$. In case of two waves with equal frequency $E = E_1 + E_2$.
+Total intensity if then \ref{eq:intI}.
+\begin{equation}
+    I = (E_1 + E_2) \cdot (E_1 + E_2)^* = I_1 + I_2 + 2 I_{12}\cdot cos(\varphi_2 - \varphi_1) = 2 A_1 A_2 \cdot cos(\varphi_2 - \varphi_1)
+    \label{eq:intI}
+\end{equation}
+Resulting intensity depends only on phase relation between waves.  Figure \ref{fig:2Dint} show constructive and destructive interference between two 
+wave sources.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.75\textwidth]{slike/2Dinterference.pdf}
+    \caption{2D interference, source:wikipedia.com}
+    \label{fig:2Dint}
+\end{figure}
+
+In order to get interference, waves must have the same \textbf{polarization}, otherwise interference will lead to a change in the state polarization.
+Energy is \textbf{conserved} and redistributed between the minimum and maximum states, which are determined by the interferance.
+
