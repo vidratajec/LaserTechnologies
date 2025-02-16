@@ -333,6 +333,7 @@ INPUT ./prveStrani/prveStrani.tex
 INPUT ./prveStrani/platnica.tex
 INPUT /Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc
 INPUT /Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc
+INPUT ./prveStrani/zahvala.tex
 INPUT ./vsebina.tex
 INPUT ./poglavja/C2-EMWaves.tex
 INPUT ./slike/spectrum.png

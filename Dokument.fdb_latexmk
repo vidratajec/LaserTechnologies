@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1738864769.48147 "/Users/vid/Documents/FAU/Laser Techologly/notes/LT/Dokument.tex" "Dokument.pdf" "Dokument" 1738864779.97636 0
+["lualatex"] 1738925080.94004 "/Users/vid/Documents/FAU/Laser Techologly/notes/LT/Dokument.tex" "Dokument.pdf" "Dokument" 1738925091.33995 0
   "/Users/vid/Documents/FAU/Laser Techologly/notes/LT/Dokument.tex" 1736866841.04534 3470 b8528ed454bac6bf3af8e1c5846d171d ""
   "/Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1734454869.35488 136312 0e3e64866d362ca6507213d4e45d4d17 ""
   "/Users/vid/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1733225669.50475 127327 76a1047b4dbbf48407ed6ace26562c1b ""
@@ -340,10 +340,10 @@
   "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1709155629 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720697827.90581 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1720697803 12256723 6997805ac17fb877db75b7ed34937c08 ""
-  "Dokument.aux" 1738864779.7919 61874 94494bb5190eef98c6fcafdf979985e6 "lualatex"
-  "Dokument.out" 1738864779.79432 13728 fc5536df6bcc968f7293a4148017d4cf "lualatex"
+  "Dokument.aux" 1738925091.15863 61874 938a2dad31374b2f130c705174aba9d2 "lualatex"
+  "Dokument.out" 1738925091.16096 13728 fc5536df6bcc968f7293a4148017d4cf "lualatex"
   "Dokument.tex" 1736866841.04534 3470 b8528ed454bac6bf3af8e1c5846d171d ""
-  "pdfa.xmpi" 1738864769.96449 5042 f4775cca61b03a79e847fba30374611c "lualatex"
+  "pdfa.xmpi" 1738925081.43342 5042 537555b9ae51c4ca331773d19624d2bf "lualatex"
   "poglavja/AbsorptionEmission.tex" 1734088701.70809 3785 76b294a7c69072dc272f3c58906dfd2c ""
   "poglavja/Additive.tex" 1738864747.44336 2469 994993992800e4ca7acaa8255e39b8cd ""
   "poglavja/BeamProfile.tex" 1734199388.36821 12359 1304f1ed366460093471b4184626f02e ""
@@ -361,7 +361,8 @@
   "poglavja/interference.tex" 1734090823.10829 2413 4a53f6dbbb333db3ab14fc5d0ae66005 ""
   "poglavja/resonators.tex" 1734115154.97673 13583 d4e6471c4e289ae5ea745008901b78e0 ""
   "prveStrani/platnica.tex" 1733239687.36491 472 d2818c8ba51625a25620a46d268e5684 ""
-  "prveStrani/prveStrani.tex" 1733064920 246 947804a04e3a80c454e91d3f76ca52b5 ""
+  "prveStrani/prveStrani.tex" 1738925070.23265 282 7dae59be8521d98d6b6b40e1f74f228d ""
+  "prveStrani/zahvala.tex" 1738922250.02337 68 ca416ad8404ddb68493ddee4f120ee93 ""
   "slike/2Dinterference.pdf" 1733594125.71411 74810 e7a3a5d1ce075a9a3732b013543667b9 ""
   "slike/3lvlsys.pdf" 1733414291.58566 29474 94f71a2c03652d155fbfd2f72f8e21a0 ""
   "slike/4lvlsys.pdf" 1733415785.8299 34562 5abf6346f323201cc727193fe5293a9e ""
@@ -486,7 +487,7 @@
   "slike/typres.pdf" 1733839314.06376 18775 d74268d36d208fce6fa20fac2c881c9c ""
   "slike/weld_mstr.png" 1738254394.46057 2732455 7ad8efa80eb89a811024673805ef2f31 ""
   "slike/wlmp.pdf" 1736865206.62088 13391 84f06bbdce52b2fe52044ed88bb946fe ""
-  "vsebina.tex" 1738864758.7976 644 cd7a824c5dc2253d6c1f5044d0431745 ""
+  "vsebina.tex" 1738919307.3504 644 cd7a824c5dc2253d6c1f5044d0431745 ""
   (generated)
   "Dokument.aux"
   "Dokument.log"

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.11)  6 FEB 2025 18:59
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.11)  7 FEB 2025 11:44
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"/Users/vid/Documents/FAU/Laser Techologly/notes/LT/Dokument.tex"
@@ -964,9 +964,9 @@ Package pgfplots Warning: running in backwards compatibility mode (unsuitable ti
 Package hyperref Info: Option `pageanchor' set `false' on input line 5.
  (./prveStrani/platnica.tex) [1
 
-]) (./vsebina.tex (./poglavja/C2-EMWaves.tex
+] (./prveStrani/zahvala.tex) [2]) (./vsebina.tex (./poglavja/C2-EMWaves.tex
 Chapter 1.
-<slike/spectrum.png, id=684, 587.3142pt x 276.0714pt>
+<slike/spectrum.png, id=687, 587.3142pt x 276.0714pt>
 File: slike/spectrum.png Graphic file (type png)
 <use slike/spectrum.png>
 Package luatex.def Info: slike/spectrum.png  used on input line 9.
@@ -979,19 +979,19 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<slike/Onde_electromagnetique.svg.png, id=688, 2569.6pt x 634.37pt>
+<slike/Onde_electromagnetique.svg.png, id=691, 2569.6pt x 634.37pt>
 File: slike/Onde_electromagnetique.svg.png Graphic file (type png)
 <use slike/Onde_electromagnetique.svg.png>
 Package luatex.def Info: slike/Onde_electromagnetique.svg.png  used on input line 35.
 (luatex.def)             Requested size: 241.84843pt x 59.70435pt.
  [1<./slike/spectrum.png><./slike/Onde_electromagnetique.svg.png>]
 warning  (file slike/simplewave.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/simplewave.pdf, id=706, 215.84639pt x 122.3772pt>
+<slike/simplewave.pdf, id=709, 215.84639pt x 122.3772pt>
 File: slike/simplewave.pdf Graphic file (type pdf)
 <use slike/simplewave.pdf>
 Package luatex.def Info: slike/simplewave.pdf  used on input line 63.
 (luatex.def)             Requested size: 241.84843pt x 137.11938pt.
-<slike/linplanewave.png, id=714, 2569.6pt x 2013.5225pt>
+<slike/linplanewave.png, id=717, 2569.6pt x 2013.5225pt>
 File: slike/linplanewave.png Graphic file (type png)
 <use slike/linplanewave.png>
 Package luatex.def Info: slike/linplanewave.png  used on input line 102.
@@ -1001,24 +1001,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [2<./slike/simplewave.pdf>]
 warning  (file slike/EBfield.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/EBfield.pdf, id=735, 316.3017pt x 127.4361pt>
+<slike/EBfield.pdf, id=738, 316.3017pt x 127.4361pt>
 File: slike/EBfield.pdf Graphic file (type pdf)
 <use slike/EBfield.pdf>
 Package luatex.def Info: slike/EBfield.pdf  used on input line 130.
 (luatex.def)             Requested size: 241.84843pt x 97.43967pt.
 [3<./slike/linplanewave.png><./slike/EBfield.pdf>]
-<slike/Brewsters-angle.svg.png, id=757, 1180.41pt x 1028.84375pt>
+<slike/Brewsters-angle.svg.png, id=760, 1180.41pt x 1028.84375pt>
 File: slike/Brewsters-angle.svg.png Graphic file (type png)
 <use slike/Brewsters-angle.svg.png>
 Package luatex.def Info: slike/Brewsters-angle.svg.png  used on input line 178.
 (luatex.def)             Requested size: 120.92421pt x 105.38652pt.
-<slike/linpol.png, id=759, 916.42375pt x 476.78125pt>
+<slike/linpol.png, id=762, 916.42375pt x 476.78125pt>
 File: slike/linpol.png Graphic file (type png)
 <use slike/linpol.png>
 Package luatex.def Info: slike/linpol.png  used on input line 188.
 (luatex.def)             Requested size: 241.84843pt x 125.82262pt.
  [4<./slike/Brewsters-angle.svg.png>]
-<slike/circpol.png, id=769, 949.5475pt x 1092.08pt>
+<slike/circpol.png, id=772, 949.5475pt x 1092.08pt>
 File: slike/circpol.png Graphic file (type png)
 <use slike/circpol.png>
 Package luatex.def Info: slike/circpol.png  used on input line 209.
@@ -1027,14 +1027,14 @@ Package luatex.def Info: slike/circpol.png  used on input line 209.
 Chapter 2.
 
 warning  (file slike/absorption.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/absorption.pdf, id=789, 243.79079pt x 109.3686pt>
+<slike/absorption.pdf, id=792, 243.79079pt x 109.3686pt>
 File: slike/absorption.pdf Graphic file (type pdf)
 <use slike/absorption.pdf>
 Package luatex.def Info: slike/absorption.pdf  used on input line 8.
 (luatex.def)             Requested size: 241.84843pt x 108.50052pt.
 
 warning  (file slike/spontem.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/spontem.pdf, id=793, 215.84639pt x 109.3686pt>
+<slike/spontem.pdf, id=796, 215.84639pt x 109.3686pt>
 File: slike/spontem.pdf Graphic file (type pdf)
 <use slike/spontem.pdf>
 Package luatex.def Info: slike/spontem.pdf  used on input line 58.
@@ -1046,7 +1046,7 @@ Overfull \hbox (22.37007pt too wide) in paragraph at lines 58--59
 
 
 warning  (file slike/stimemm.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/stimemm.pdf, id=794, 215.84639pt x 109.3686pt>
+<slike/stimemm.pdf, id=797, 215.84639pt x 109.3686pt>
 File: slike/stimemm.pdf Graphic file (type pdf)
 <use slike/stimemm.pdf>
 Package luatex.def Info: slike/stimemm.pdf  used on input line 63.
@@ -1060,14 +1060,14 @@ Overfull \hbox (22.37007pt too wide) in paragraph at lines 63--64
 Chapter 3.
 
 warning  (file slike/rate.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/rate.pdf, id=850, 546.12032pt x 189.8292pt>
+<slike/rate.pdf, id=853, 546.12032pt x 189.8292pt>
 File: slike/rate.pdf Graphic file (type pdf)
 <use slike/rate.pdf>
 Package luatex.def Info: slike/rate.pdf  used on input line 13.
 (luatex.def)             Requested size: 459.51054pt x 159.73059pt.
 
 warning  (file slike/gdist.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/gdist.pdf, id=857, 228.855pt x 228.855pt>
+<slike/gdist.pdf, id=860, 228.855pt x 228.855pt>
 File: slike/gdist.pdf Graphic file (type pdf)
 <use slike/gdist.pdf>
 Package luatex.def Info: slike/gdist.pdf  used on input line 51.
@@ -1079,7 +1079,7 @@ Overfull \hbox (35.37865pt too wide) in paragraph at lines 51--52
 
 
 warning  (file slike/idist.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/idist.pdf, id=858, 228.855pt x 228.855pt>
+<slike/idist.pdf, id=861, 228.855pt x 228.855pt>
 File: slike/idist.pdf Graphic file (type pdf)
 <use slike/idist.pdf>
 Package luatex.def Info: slike/idist.pdf  used on input line 56.
@@ -1091,14 +1091,14 @@ Overfull \hbox (35.37865pt too wide) in paragraph at lines 56--57
 
 [9<./slike/rate.pdf>]
 warning  (file slike/3lvlsys.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/3lvlsys.pdf, id=896, 251.98138pt x 199.70609pt>
+<slike/3lvlsys.pdf, id=900, 251.98138pt x 199.70609pt>
 File: slike/3lvlsys.pdf Graphic file (type pdf)
 <use slike/3lvlsys.pdf>
 Package luatex.def Info: slike/3lvlsys.pdf  used on input line 92.
 (luatex.def)             Requested size: 188.98557pt x 149.77919pt.
 
 warning  (file slike/4lvlsys.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/4lvlsys.pdf, id=897, 262.0992pt x 199.70609pt>
+<slike/4lvlsys.pdf, id=901, 262.0992pt x 199.70609pt>
 File: slike/4lvlsys.pdf Graphic file (type pdf)
 <use slike/4lvlsys.pdf>
 Package luatex.def Info: slike/4lvlsys.pdf  used on input line 97.
@@ -1108,21 +1108,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10<./slike/gdist.pdf><./slike/idist.pdf>]
 warning  (file slike/lrb.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/lrb.pdf, id=923, 401.58029pt x 141.6492pt>
+<slike/lrb.pdf, id=926, 401.58029pt x 141.6492pt>
 File: slike/lrb.pdf Graphic file (type pdf)
 <use slike/lrb.pdf>
 Package luatex.def Info: slike/lrb.pdf  used on input line 112.
 (luatex.def)             Requested size: 362.77264pt x 127.96507pt.
 
 warning  (file slike/linebroadening.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/linebroadening.pdf, id=926, 318.22888pt x 102.3825pt>
+<slike/linebroadening.pdf, id=929, 318.22888pt x 102.3825pt>
 File: slike/linebroadening.pdf Graphic file (type pdf)
 <use slike/linebroadening.pdf>
 Package luatex.def Info: slike/linebroadening.pdf  used on input line 125.
 (luatex.def)             Requested size: 241.84843pt x 77.80994pt.
 
 warning  (file slike/chart_broadening.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/chart_broadening.pdf, id=928, 305.22029pt x 233.9139pt>
+<slike/chart_broadening.pdf, id=931, 305.22029pt x 233.9139pt>
 File: slike/chart_broadening.pdf Graphic file (type pdf)
 <use slike/chart_broadening.pdf>
 Package luatex.def Info: slike/chart_broadening.pdf  used on input line 134.
@@ -1139,21 +1139,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--150
 Chapter 4.
 
 warning  (file slike/posint.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/posint.pdf, id=1004, 446.62859pt x 215.84639pt>
+<slike/posint.pdf, id=1007, 446.62859pt x 215.84639pt>
 File: slike/posint.pdf Graphic file (type pdf)
 <use slike/posint.pdf>
 Package luatex.def Info: slike/posint.pdf  used on input line 11.
 (luatex.def)             Requested size: 362.77264pt x 175.31876pt.
 
 warning  (file slike/negint.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/negint.pdf, id=1007, 446.62859pt x 215.84639pt>
+<slike/negint.pdf, id=1010, 446.62859pt x 215.84639pt>
 File: slike/negint.pdf Graphic file (type pdf)
 <use slike/negint.pdf>
 Package luatex.def Info: slike/negint.pdf  used on input line 20.
 (luatex.def)             Requested size: 362.77264pt x 175.31876pt.
 [13<./slike/posint.pdf><./slike/negint.pdf>]
 warning  (file slike/2Dinterference.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/2Dinterference.pdf, id=1034, 334.3692pt x 145.50359pt>
+<slike/2Dinterference.pdf, id=1037, 334.3692pt x 145.50359pt>
 File: slike/2Dinterference.pdf Graphic file (type pdf)
 <use slike/2Dinterference.pdf>
 Package luatex.def Info: slike/2Dinterference.pdf  used on input line 43.
@@ -1167,28 +1167,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Chapter 6.
 
 warning  (file slike/res1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/res1.pdf, id=1074, 253.90858pt x 159.71669pt>
+<slike/res1.pdf, id=1077, 253.90858pt x 159.71669pt>
 File: slike/res1.pdf Graphic file (type pdf)
 <use slike/res1.pdf>
 Package luatex.def Info: slike/res1.pdf  used on input line 15.
 (luatex.def)             Requested size: 241.84843pt x 152.12967pt.
 
 warning  (file slike/modes.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/modes.pdf, id=1078, 277.035pt x 90.3375pt>
+<slike/modes.pdf, id=1081, 277.035pt x 90.3375pt>
 File: slike/modes.pdf Graphic file (type pdf)
 <use slike/modes.pdf>
 Package luatex.def Info: slike/modes.pdf  used on input line 45.
 (luatex.def)             Requested size: 241.84843pt x 78.86314pt.
 
 warning  (file slike/deltalambda.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/deltalambda.pdf, id=1080, 275.10779pt x 153.6942pt>
+<slike/deltalambda.pdf, id=1083, 275.10779pt x 153.6942pt>
 File: slike/deltalambda.pdf Graphic file (type pdf)
 <use slike/deltalambda.pdf>
 Package luatex.def Info: slike/deltalambda.pdf  used on input line 52.
 (luatex.def)             Requested size: 241.84843pt x 135.11761pt.
 [17<./slike/res1.pdf>]
 warning  (file slike/resonator_losses.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/resonator_losses.pdf, id=1104, 303.05219pt x 159.71669pt>
+<slike/resonator_losses.pdf, id=1107, 303.05219pt x 159.71669pt>
 File: slike/resonator_losses.pdf Graphic file (type pdf)
 <use slike/resonator_losses.pdf>
 Package luatex.def Info: slike/resonator_losses.pdf  used on input line 68.
@@ -1198,14 +1198,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18<./slike/modes.pdf><./slike/deltalambda.pdf>]
 warning  (file slike/activemediumresonator.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/activemediumresonator.pdf, id=1138, 225.7233pt x 324.25137pt>
+<slike/activemediumresonator.pdf, id=1141, 225.7233pt x 324.25137pt>
 File: slike/activemediumresonator.pdf Graphic file (type pdf)
 <use slike/activemediumresonator.pdf>
 Package luatex.def Info: slike/activemediumresonator.pdf  used on input line 105.
 (luatex.def)             Requested size: 145.11053pt x 208.45033pt.
 
 warning  (file slike/gainfunc.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/gainfunc.pdf, id=1141, 223.7961pt x 107.4414pt>
+<slike/gainfunc.pdf, id=1144, 223.7961pt x 107.4414pt>
 File: slike/gainfunc.pdf Graphic file (type pdf)
 <use slike/gainfunc.pdf>
 Package luatex.def Info: slike/gainfunc.pdf  used on input line 119.
@@ -1215,12 +1215,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [19<./slike/resonator_losses.pdf><./slike/activemediumresonator.pdf>]
 warning  (file slike/typres.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/typres.pdf, id=1180, 378.45387pt x 145.50359pt>
+<slike/typres.pdf, id=1184, 378.45387pt x 145.50359pt>
 File: slike/typres.pdf Graphic file (type pdf)
 <use slike/typres.pdf>
 Package luatex.def Info: slike/typres.pdf  used on input line 136.
 (luatex.def)             Requested size: 241.84843pt x 92.98653pt.
-<slike/res_configs.png, id=1184, 1298.8525pt x 806.01125pt>
+<slike/res_configs.png, id=1188, 1298.8525pt x 806.01125pt>
 File: slike/res_configs.png Graphic file (type png)
 <use slike/res_configs.png>
 Package luatex.def Info: slike/res_configs.png  used on input line 160.
@@ -1235,14 +1235,14 @@ Underfull \hbox (badness 2229) in paragraph at lines 183--183
 
 
 warning  (file slike/lenseff2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/lenseff2.pdf, id=1212, 595.26389pt x 181.6386pt>
+<slike/lenseff2.pdf, id=1215, 595.26389pt x 181.6386pt>
 File: slike/lenseff2.pdf Graphic file (type pdf)
 <use slike/lenseff2.pdf>
 Package luatex.def Info: slike/lenseff2.pdf  used on input line 191.
 (luatex.def)             Requested size: 435.32422pt x 132.83618pt.
 [21<./slike/res_configs.png><./slike/lenseff2.pdf>]
 warning  (file slike/ABCD_lens.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/ABCD_lens.pdf, id=1237, 274.1442pt x 109.3686pt>
+<slike/ABCD_lens.pdf, id=1240, 274.1442pt x 109.3686pt>
 File: slike/ABCD_lens.pdf Graphic file (type pdf)
 <use slike/ABCD_lens.pdf>
 Package luatex.def Info: slike/ABCD_lens.pdf  used on input line 267.
@@ -1256,7 +1256,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 284--286
  []
 
 [22] [23<./slike/ABCD_lens.pdf>]
-<slike/Laser_resonator_stability.png, id=1268, 2205.23875pt x 2054.67625pt>
+<slike/Laser_resonator_stability.png, id=1271, 2205.23875pt x 2054.67625pt>
 File: slike/Laser_resonator_stability.png Graphic file (type png)
 <use slike/Laser_resonator_stability.png>
 Package luatex.def Info: slike/Laser_resonator_stability.png  used on input line 316.
@@ -1265,12 +1265,12 @@ Package luatex.def Info: slike/Laser_resonator_stability.png  used on input line
 Chapter 7.
 
 warning  (file slike/slit_photon.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/slit_photon.pdf, id=1276, 290.0436pt x 101.4189pt>
+<slike/slit_photon.pdf, id=1279, 290.0436pt x 101.4189pt>
 File: slike/slit_photon.pdf Graphic file (type pdf)
 <use slike/slit_photon.pdf>
 Package luatex.def Info: slike/slit_photon.pdf  used on input line 7.
 (luatex.def)             Requested size: 169.29684pt x 59.19904pt.
-<slike/slit1.png, id=1279, 666.49pt x 600.2425pt>
+<slike/slit1.png, id=1282, 666.49pt x 600.2425pt>
 File: slike/slit1.png Graphic file (type png)
 <use slike/slit1.png>
 Package luatex.def Info: slike/slit1.png  used on input line 22.
@@ -1279,12 +1279,12 @@ Package luatex.def Info: slike/slit1.png  used on input line 22.
 
 LaTeX Warning: Reference `tab:ftp' on page 26 undefined on input line 56.
 
-<slike/squareAdiff.png, id=1301, 274.02374pt x 274.02374pt>
+<slike/squareAdiff.png, id=1304, 274.02374pt x 274.02374pt>
 File: slike/squareAdiff.png Graphic file (type png)
 <use slike/squareAdiff.png>
 Package luatex.def Info: slike/squareAdiff.png  used on input line 79.
 (luatex.def)             Requested size: 72.55157pt x 72.55322pt.
-<slike/difSslt.png, id=1304, 498.86375pt x 428.60126pt>
+<slike/difSslt.png, id=1307, 498.86375pt x 428.60126pt>
 File: slike/difSslt.png Graphic file (type png)
 <use slike/difSslt.png>
 Package luatex.def Info: slike/difSslt.png  used on input line 93.
@@ -1294,43 +1294,43 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [26<./slike/squareAdiff.png>]
 warning  (file slike/fresnel1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/fresnel1.pdf, id=1317, 316.3017pt x 109.3686pt>
+<slike/fresnel1.pdf, id=1320, 316.3017pt x 109.3686pt>
 File: slike/fresnel1.pdf Graphic file (type pdf)
 <use slike/fresnel1.pdf>
 Package luatex.def Info: slike/fresnel1.pdf  used on input line 115.
 (luatex.def)             Requested size: 241.84843pt x 83.62497pt.
 
 warning  (file slike/fresnel2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/fresnel2.pdf, id=1319, 294.13892pt x 109.3686pt>
+<slike/fresnel2.pdf, id=1322, 294.13892pt x 109.3686pt>
 File: slike/fresnel2.pdf Graphic file (type pdf)
 <use slike/fresnel2.pdf>
 Package luatex.def Info: slike/fresnel2.pdf  used on input line 123.
 (luatex.def)             Requested size: 241.84843pt x 89.92813pt.
 [27<./slike/difSslt.png><./slike/fresnel1.pdf><./slike/fresnel2.pdf>]
-<slike/fbq1.png, id=1359, 1254.6875pt x 735.74875pt>
+<slike/fbq1.png, id=1362, 1254.6875pt x 735.74875pt>
 File: slike/fbq1.png Graphic file (type png)
 <use slike/fbq1.png>
 Package luatex.def Info: slike/fbq1.png  used on input line 148.
 (luatex.def)             Requested size: 241.84843pt x 141.8145pt.
-<slike/fbq4.png, id=1361, 1239.63126pt x 759.83875pt>
+<slike/fbq4.png, id=1364, 1239.63126pt x 759.83875pt>
 File: slike/fbq4.png Graphic file (type png)
 <use slike/fbq4.png>
 Package luatex.def Info: slike/fbq4.png  used on input line 156.
 (luatex.def)             Requested size: 241.84843pt x 148.23172pt.
  [28<./slike/fbq1.png><./slike/fbq4.png>]
 warning  (file slike/spatialholeburning.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/spatialholeburning.pdf, id=1373, 388.3308pt x 189.8292pt>
+<slike/spatialholeburning.pdf, id=1376, 388.3308pt x 189.8292pt>
 File: slike/spatialholeburning.pdf Graphic file (type pdf)
 <use slike/spatialholeburning.pdf>
 Package luatex.def Info: slike/spatialholeburning.pdf  used on input line 194.
 (luatex.def)             Requested size: 314.40001pt x 153.69417pt.
-<slike/TransverseModes.png, id=1375, 1012.78375pt x 834.11626pt>
+<slike/TransverseModes.png, id=1378, 1012.78375pt x 834.11626pt>
 File: slike/TransverseModes.png Graphic file (type png)
 <use slike/TransverseModes.png>
 Package luatex.def Info: slike/TransverseModes.png  used on input line 207.
 (luatex.def)             Requested size: 241.84843pt x 199.17378pt.
 [29<./slike/spatialholeburning.pdf>]
-<slike/tmcr.png, id=1397, 664.4825pt x 801.99625pt>
+<slike/tmcr.png, id=1401, 664.4825pt x 801.99625pt>
 File: slike/tmcr.png Graphic file (type png)
 <use slike/tmcr.png>
 Package luatex.def Info: slike/tmcr.png  used on input line 240.
@@ -1343,7 +1343,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Reference `eq:temrec' on page 30 undefined on input line 248.
 
 [30<./slike/TransverseModes.png>]
-<slike/tmrr.png, id=1407, 676.5275pt x 807.015pt>
+<slike/tmrr.png, id=1410, 676.5275pt x 807.015pt>
 File: slike/tmrr.png Graphic file (type png)
 <use slike/tmrr.png>
 Package luatex.def Info: slike/tmrr.png  used on input line 257.
@@ -1352,14 +1352,14 @@ Package luatex.def Info: slike/tmrr.png  used on input line 257.
 Chapter 8.
 
 warning  (file slike/gbna.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/gbna.pdf, id=1416, 225.7233pt x 117.3183pt>
+<slike/gbna.pdf, id=1419, 225.7233pt x 117.3183pt>
 File: slike/gbna.pdf Graphic file (type pdf)
 <use slike/gbna.pdf>
 Package luatex.def Info: slike/gbna.pdf  used on input line 8.
 (luatex.def)             Requested size: 290.22107pt x 150.84178pt.
 
 warning  (file slike/gaus_beam.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/gaus_beam.pdf, id=1420, 379.4175pt x 137.5539pt>
+<slike/gaus_beam.pdf, id=1423, 379.4175pt x 137.5539pt>
 File: slike/gaus_beam.pdf Graphic file (type pdf)
 <use slike/gaus_beam.pdf>
 Package luatex.def Info: slike/gaus_beam.pdf  used on input line 25.
@@ -1369,26 +1369,26 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [32<./slike/gbna.pdf><./slike/gaus_beam.pdf>] [33]
 warning  (file slike/fwhm.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/fwhm.pdf, id=1475, 243.79079pt x 127.4361pt>
+<slike/fwhm.pdf, id=1478, 243.79079pt x 127.4361pt>
 File: slike/fwhm.pdf Graphic file (type pdf)
 <use slike/fwhm.pdf>
 Package luatex.def Info: slike/fwhm.pdf  used on input line 112.
 (luatex.def)             Requested size: 241.84843pt x 126.42462pt.
-<slike/hobtem.png, id=1477, 873.2625pt x 511.9125pt>
+<slike/hobtem.png, id=1480, 873.2625pt x 511.9125pt>
 File: slike/hobtem.png Graphic file (type png)
 <use slike/hobtem.png>
 Package luatex.def Info: slike/hobtem.png  used on input line 139.
 (luatex.def)             Requested size: 241.84843pt x 141.7723pt.
 [34<./slike/fwhm.pdf>]
 warning  (file slike/saberation.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/saberation.pdf, id=1497, 129.6042pt x 59.2614pt>
+<slike/saberation.pdf, id=1500, 129.6042pt x 59.2614pt>
 File: slike/saberation.pdf Graphic file (type pdf)
 <use slike/saberation.pdf>
 Package luatex.def Info: slike/saberation.pdf  used on input line 187.
 (luatex.def)             Requested size: 145.11053pt x 66.356pt.
 [35<./slike/hobtem.png>]
 warning  (file slike/gaussbeampropagation.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/gaussbeampropagation.pdf, id=1509, 131.53139pt x 59.2614pt>
+<slike/gaussbeampropagation.pdf, id=1512, 131.53139pt x 59.2614pt>
 File: slike/gaussbeampropagation.pdf Graphic file (type pdf)
 <use slike/gaussbeampropagation.pdf>
 Package luatex.def Info: slike/gaussbeampropagation.pdf  used on input line 206.
@@ -1397,35 +1397,35 @@ Package luatex.def Info: slike/gaussbeampropagation.pdf  used on input line 206.
 Chapter 9.
 
 warning  (file slike/blackbody.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.5', but at most version '1.4' allowed
-<slike/blackbody.pdf, id=1549, 78.72311pt x 69.60805pt>
+<slike/blackbody.pdf, id=1552, 78.72311pt x 69.60805pt>
 File: slike/blackbody.pdf Graphic file (type pdf)
 <use slike/blackbody.pdf>
 Package luatex.def Info: slike/blackbody.pdf  used on input line 28.
 (luatex.def)             Requested size: 145.11053pt x 128.31506pt.
 [38<./slike/blackbody.pdf>]
 warning  (file slike/bandform.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/bandform.pdf, id=1566, 1667.26881pt x 534.07532pt>
+<slike/bandform.pdf, id=1569, 1667.26881pt x 534.07532pt>
 File: slike/bandform.pdf Graphic file (type pdf)
 <use slike/bandform.pdf>
 Package luatex.def Info: slike/bandform.pdf  used on input line 77.
 (luatex.def)             Requested size: 241.84843pt x 77.46745pt.
 
 warning  (file slike/mat_bandgap.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/mat_bandgap.pdf, id=1568, 290.0436pt x 237.7683pt>
+<slike/mat_bandgap.pdf, id=1571, 290.0436pt x 237.7683pt>
 File: slike/mat_bandgap.pdf Graphic file (type pdf)
 <use slike/mat_bandgap.pdf>
 Package luatex.def Info: slike/mat_bandgap.pdf  used on input line 89.
 (luatex.def)             Requested size: 362.77264pt x 297.39827pt.
 [39<./slike/bandform.pdf>] [40<./slike/mat_bandgap.pdf>]
 warning  (file slike/linabs.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/linabs.pdf, id=1603, 198.7425pt x 145.50359pt>
+<slike/linabs.pdf, id=1606, 198.7425pt x 145.50359pt>
 File: slike/linabs.pdf Graphic file (type pdf)
 <use slike/linabs.pdf>
 Package luatex.def Info: slike/linabs.pdf  used on input line 120.
 (luatex.def)             Requested size: 241.84843pt x 177.06784pt.
 
 warning  (file slike/nonlinabs.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/nonlinabs.pdf, id=1605, 132.495pt x 142.61281pt>
+<slike/nonlinabs.pdf, id=1608, 132.495pt x 142.61281pt>
 File: slike/nonlinabs.pdf Graphic file (type pdf)
 <use slike/nonlinabs.pdf>
 Package luatex.def Info: slike/nonlinabs.pdf  used on input line 133.
@@ -1439,27 +1439,27 @@ LaTeX Warning: Reference `fig:tion' on page 42 undefined on input line 140.
 
 
 warning  (file slike/thermion.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/thermion.pdf, id=1626, 202.8378pt x 202.8378pt>
+<slike/thermion.pdf, id=1629, 202.8378pt x 202.8378pt>
 File: slike/thermion.pdf Graphic file (type pdf)
 <use slike/thermion.pdf>
 Package luatex.def Info: slike/thermion.pdf  used on input line 146.
 (luatex.def)             Requested size: 152.12796pt x 152.12796pt.
 
 warning  (file slike/therionpop.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/therionpop.pdf, id=1627, 228.855pt x 230.7822pt>
+<slike/therionpop.pdf, id=1630, 228.855pt x 230.7822pt>
 File: slike/therionpop.pdf Graphic file (type pdf)
 <use slike/therionpop.pdf>
 Package luatex.def Info: slike/therionpop.pdf  used on input line 150.
 (luatex.def)             Requested size: 137.31404pt x 138.47038pt.
 [42<./slike/nonlinabs.pdf><./slike/thermion.pdf><./slike/therionpop.pdf>]
 warning  (file slike/plasmadensity.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/plasmadensity.pdf, id=1664, 380.38109pt x 199.70609pt>
+<slike/plasmadensity.pdf, id=1667, 380.38109pt x 199.70609pt>
 File: slike/plasmadensity.pdf Graphic file (type pdf)
 <use slike/plasmadensity.pdf>
 Package luatex.def Info: slike/plasmadensity.pdf  used on input line 176.
 (luatex.def)             Requested size: 241.84843pt x 126.97345pt.
 [43<./slike/plasmadensity.pdf>]
-<slike/arwl.png, id=1679, 1438.37375pt x 769.87625pt>
+<slike/arwl.png, id=1682, 1438.37375pt x 769.87625pt>
 File: slike/arwl.png Graphic file (type png)
 <use slike/arwl.png>
 Package luatex.def Info: slike/arwl.png  used on input line 254.
@@ -1468,12 +1468,12 @@ Package luatex.def Info: slike/arwl.png  used on input line 254.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<slike/armi.png, id=1682, 1200.485pt x 676.5275pt>
+<slike/armi.png, id=1685, 1200.485pt x 676.5275pt>
 File: slike/armi.png Graphic file (type png)
 <use slike/armi.png>
 Package luatex.def Info: slike/armi.png  used on input line 266.
 (luatex.def)             Requested size: 97.94728pt x 55.19688pt.
-<slike/Rangle.png, id=1683, 1149.29375pt x 672.5125pt>
+<slike/Rangle.png, id=1686, 1149.29375pt x 672.5125pt>
 File: slike/Rangle.png Graphic file (type png)
 <use slike/Rangle.png>
 Package luatex.def Info: slike/Rangle.png  used on input line 272.
@@ -1482,17 +1482,17 @@ Package luatex.def Info: slike/Rangle.png  used on input line 272.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<slike/hef1.png, id=1696, 199.74625pt x 313.17pt>
+<slike/hef1.png, id=1699, 199.74625pt x 313.17pt>
 File: slike/hef1.png Graphic file (type png)
 <use slike/hef1.png>
 Package luatex.def Info: slike/hef1.png  used on input line 331.
 (luatex.def)             Requested size: 54.41551pt x 85.31204pt.
-<slike/hef2.png, id=1697, 293.095pt x 383.4325pt>
+<slike/hef2.png, id=1700, 293.095pt x 383.4325pt>
 File: slike/hef2.png Graphic file (type png)
 <use slike/hef2.png>
 Package luatex.def Info: slike/hef2.png  used on input line 337.
 (luatex.def)             Requested size: 54.41551pt x 71.18547pt.
-<slike/hef3.png, id=1698, 491.8375pt x 434.62375pt>
+<slike/hef3.png, id=1701, 491.8375pt x 434.62375pt>
 File: slike/hef3.png Graphic file (type png)
 <use slike/hef3.png>
 Package luatex.def Info: slike/hef3.png  used on input line 343.
@@ -1502,37 +1502,37 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [45<./slike/arwl.png><./slike/armi.png><./slike/Rangle.png>] [46<./slike/hef1.png><./slike/hef2.png><./slike/hef3.png>]
 warning  (file slike/tpulses.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/tpulses.pdf, id=1717, 275.10779pt x 124.54529pt>
+<slike/tpulses.pdf, id=1720, 275.10779pt x 124.54529pt>
 File: slike/tpulses.pdf Graphic file (type pdf)
 <use slike/tpulses.pdf>
 Package luatex.def Info: slike/tpulses.pdf  used on input line 392.
 (luatex.def)             Requested size: 241.84843pt x 109.49185pt.
 
 warning  (file slike/prepet.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/prepet.pdf, id=1719, 565.15138pt x 202.8378pt>
+<slike/prepet.pdf, id=1722, 565.15138pt x 202.8378pt>
 File: slike/prepet.pdf Graphic file (type pdf)
 <use slike/prepet.pdf>
 Package luatex.def Info: slike/prepet.pdf  used on input line 403.
 (luatex.def)             Requested size: 362.77264pt x 130.20572pt.
 ) [47<./slike/tpulses.pdf><./slike/prepet.pdf>] (./poglavja/L1.tex
 Chapter 10.
-<slike/cw.png, id=1738, 944.52875pt x 589.20125pt>
+<slike/cw.png, id=1741, 944.52875pt x 589.20125pt>
 File: slike/cw.png Graphic file (type png)
 <use slike/cw.png>
 Package luatex.def Info: slike/cw.png  used on input line 9.
 (luatex.def)             Requested size: 241.84843pt x 150.86017pt.
-<slike/hene2modes.png, id=1740, 898.35625pt x 603.25375pt>
+<slike/hene2modes.png, id=1743, 898.35625pt x 603.25375pt>
 File: slike/hene2modes.png Graphic file (type png)
 <use slike/hene2modes.png>
 Package luatex.def Info: slike/hene2modes.png  used on input line 20.
 (luatex.def)             Requested size: 241.84843pt x 162.40202pt.
-<slike/schwebung.png, id=1742, 707.64375pt x 427.5975pt>
+<slike/schwebung.png, id=1745, 707.64375pt x 427.5975pt>
 File: slike/schwebung.png Graphic file (type png)
 <use slike/schwebung.png>
 Package luatex.def Info: slike/schwebung.png  used on input line 30.
 (luatex.def)             Requested size: 241.84843pt x 146.13808pt.
 [48<./slike/cw.png><./slike/hene2modes.png>]
-<slike/mmnpl.png, id=1753, 1122.1925pt x 323.2075pt>
+<slike/mmnpl.png, id=1756, 1122.1925pt x 323.2075pt>
 File: slike/mmnpl.png Graphic file (type png)
 <use slike/mmnpl.png>
 Package luatex.def Info: slike/mmnpl.png  used on input line 44.
@@ -1541,41 +1541,41 @@ File: slike/mmnpl.png Graphic file (type png)
 <use slike/mmnpl.png>
 Package luatex.def Info: slike/mmnpl.png  used on input line 51.
 (luatex.def)             Requested size: 362.77264pt x 104.4839pt.
-<slike/mmif.png, id=1755, 1214.5375pt x 577.15625pt>
+<slike/mmif.png, id=1758, 1214.5375pt x 577.15625pt>
 File: slike/mmif.png Graphic file (type png)
 <use slike/mmif.png>
 Package luatex.def Info: slike/mmif.png  used on input line 60.
 (luatex.def)             Requested size: 241.84843pt x 114.92722pt.
  [49<./slike/schwebung.png><./slike/mmnpl.png>]
-<slike/em1.png, id=1766, 1443.3925pt x 201.75375pt>
+<slike/em1.png, id=1770, 1443.3925pt x 201.75375pt>
 File: slike/em1.png Graphic file (type png)
 <use slike/em1.png>
 Package luatex.def Info: slike/em1.png  used on input line 72.
 (luatex.def)             Requested size: 362.77264pt x 50.70613pt.
-<slike/em2.png, id=1768, 795.97375pt x 453.695pt>
+<slike/em2.png, id=1772, 795.97375pt x 453.695pt>
 File: slike/em2.png Graphic file (type png)
 <use slike/em2.png>
 Package luatex.def Info: slike/em2.png  used on input line 84.
 (luatex.def)             Requested size: 241.84843pt x 137.84717pt.
  [50<./slike/mmif.png><./slike/em1.png><./slike/em2.png>]
 warning  (file slike/kerreff.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/kerreff.pdf, id=1781, 533.1117pt x 166.7028pt>
+<slike/kerreff.pdf, id=1784, 533.1117pt x 166.7028pt>
 File: slike/kerreff.pdf Graphic file (type pdf)
 <use slike/kerreff.pdf>
 Package luatex.def Info: slike/kerreff.pdf  used on input line 116.
 (luatex.def)             Requested size: 362.77264pt x 113.44032pt.
 [51<./slike/kerreff.pdf>]
-<slike/sesam.png, id=1798, 1298.8525pt x 249.93375pt>
+<slike/sesam.png, id=1801, 1298.8525pt x 249.93375pt>
 File: slike/sesam.png Graphic file (type png)
 <use slike/sesam.png>
 Package luatex.def Info: slike/sesam.png  used on input line 144.
 (luatex.def)             Requested size: 362.77264pt x 69.80554pt.
-<slike/sesam2.png, id=1800, 453.695pt x 285.065pt>
+<slike/sesam2.png, id=1803, 453.695pt x 285.065pt>
 File: slike/sesam2.png Graphic file (type png)
 <use slike/sesam2.png>
 Package luatex.def Info: slike/sesam2.png  used on input line 154.
 (luatex.def)             Requested size: 169.29684pt x 106.37279pt.
-<slike/qswitching.png, id=1802, 939.51pt x 565.11125pt>
+<slike/qswitching.png, id=1805, 939.51pt x 565.11125pt>
 File: slike/qswitching.png Graphic file (type png)
 <use slike/qswitching.png>
 Package luatex.def Info: slike/qswitching.png  used on input line 164.
@@ -1587,13 +1587,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 warning  (file slike/hene1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/hene1.pdf, id=1819, 384.47638pt x 247.8861pt>
+<slike/hene1.pdf, id=1822, 384.47638pt x 247.8861pt>
 File: slike/hene1.pdf Graphic file (type pdf)
 <use slike/hene1.pdf>
 Package luatex.def Info: slike/hene1.pdf  used on input line 69.
 (luatex.def)             Requested size: 362.77264pt x 233.89424pt.
 [54]
-<slike/simpsco2.png, id=1831, 758.835pt x 700.6175pt>
+<slike/simpsco2.png, id=1834, 758.835pt x 700.6175pt>
 File: slike/simpsco2.png Graphic file (type png)
 <use slike/simpsco2.png>
 Package luatex.def Info: slike/simpsco2.png  used on input line 83.
@@ -1604,7 +1604,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 warning  (file slike/n2co2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/n2co2.pdf, id=1833, 1410.22856pt x 1012.74356pt>
+<slike/n2co2.pdf, id=1836, 1410.22856pt x 1012.74356pt>
 File: slike/n2co2.pdf Graphic file (type pdf)
 <use slike/n2co2.pdf>
 Package luatex.def Info: slike/n2co2.pdf  used on input line 90.
@@ -1614,7 +1614,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [55<./slike/hene1.pdf>]
 warning  (file slike/diodeIth.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/diodeIth.pdf, id=1851, 264.02641pt x 266.91718pt>
+<slike/diodeIth.pdf, id=1854, 264.02641pt x 266.91718pt>
 File: slike/diodeIth.pdf Graphic file (type pdf)
 <use slike/diodeIth.pdf>
 Package luatex.def Info: slike/diodeIth.pdf  used on input line 125.
@@ -1624,7 +1624,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 warning  (file slike/laserdiode2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/laserdiode2.pdf, id=1853, 238.9728pt x 202.8378pt>
+<slike/laserdiode2.pdf, id=1856, 238.9728pt x 202.8378pt>
 File: slike/laserdiode2.pdf Graphic file (type pdf)
 <use slike/laserdiode2.pdf>
 Package luatex.def Info: slike/laserdiode2.pdf  used on input line 134.
@@ -1634,12 +1634,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [56<./slike/simpsco2.png><./slike/n2co2.pdf>]
 warning  (file slike/diodestack.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/diodestack.pdf, id=1866, 481.8pt x 174.6525pt>
+<slike/diodestack.pdf, id=1869, 481.8pt x 174.6525pt>
 File: slike/diodestack.pdf Graphic file (type pdf)
 <use slike/diodestack.pdf>
 Package luatex.def Info: slike/diodestack.pdf  used on input line 146.
 (luatex.def)             Requested size: 241.84843pt x 87.66982pt.
-<slike/hpc.png, id=1868, 867.24pt x 593.21625pt>
+<slike/hpc.png, id=1871, 867.24pt x 593.21625pt>
 File: slike/hpc.png Graphic file (type png)
 <use slike/hpc.png>
 Package luatex.def Info: slike/hpc.png  used on input line 156.
@@ -1649,36 +1649,36 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [57<./slike/diodeIth.pdf><./slike/laserdiode2.pdf><./slike/diodestack.pdf>]
 warning  (file slike/wlmp.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/wlmp.pdf, id=1901, 457.71pt x 133.45859pt>
+<slike/wlmp.pdf, id=1904, 457.71pt x 133.45859pt>
 File: slike/wlmp.pdf Graphic file (type pdf)
 <use slike/wlmp.pdf>
 Package luatex.def Info: slike/wlmp.pdf  used on input line 171.
 (luatex.def)             Requested size: 362.77264pt x 105.78137pt.
 
 warning  (file slike/plmp.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/plmp.pdf, id=1902, 123.5817pt x 85.2786pt>
+<slike/plmp.pdf, id=1905, 123.5817pt x 85.2786pt>
 File: slike/plmp.pdf Graphic file (type pdf)
 <use slike/plmp.pdf>
 Package luatex.def Info: slike/plmp.pdf  used on input line 177.
 (luatex.def)             Requested size: 120.92421pt x 83.44621pt.
-<slike/theffect.png, id=1904, 884.30376pt x 561.09625pt>
+<slike/theffect.png, id=1907, 884.30376pt x 561.09625pt>
 File: slike/theffect.png Graphic file (type png)
 <use slike/theffect.png>
 Package luatex.def Info: slike/theffect.png  used on input line 190.
 (luatex.def)             Requested size: 241.84843pt x 153.45006pt.
 [58<./slike/hpc.png><./slike/wlmp.pdf><./slike/plmp.pdf>] [59<./slike/theffect.png>]
 warning  (file slike/disklaser.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/disklaser.pdf, id=1932, 268.1217pt x 133.45859pt>
+<slike/disklaser.pdf, id=1936, 268.1217pt x 133.45859pt>
 File: slike/disklaser.pdf Graphic file (type pdf)
 <use slike/disklaser.pdf>
 Package luatex.def Info: slike/disklaser.pdf  used on input line 248.
 (luatex.def)             Requested size: 241.84843pt x 120.38449pt.
-<slike/disklaser2.jpg, id=1934, 301.125pt x 201.75375pt>
+<slike/disklaser2.jpg, id=1938, 301.125pt x 201.75375pt>
 File: slike/disklaser2.jpg Graphic file (type jpg)
 <use slike/disklaser2.jpg>
 Package luatex.def Info: slike/disklaser2.jpg  used on input line 258.
 (luatex.def)             Requested size: 169.29684pt x 113.43387pt.
-<slike/ReflexionTotal_en.svg.png, id=1936, 1284.8pt x 852.18375pt>
+<slike/ReflexionTotal_en.svg.png, id=1940, 1284.8pt x 852.18375pt>
 File: slike/ReflexionTotal_en.svg.png Graphic file (type png)
 <use slike/ReflexionTotal_en.svg.png>
 Package luatex.def Info: slike/ReflexionTotal_en.svg.png  used on input line 270.
@@ -1689,7 +1689,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Missing character: There is no ° (U+00B0) in font cmr12!
 [60<./slike/disklaser.pdf><./slike/disklaser2.jpg>]
 warning  (file slike/optfib.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/optfib.pdf, id=1958, 234.8775pt x 88.41031pt>
+<slike/optfib.pdf, id=1961, 234.8775pt x 88.41031pt>
 File: slike/optfib.pdf Graphic file (type pdf)
 <use slike/optfib.pdf>
 Package luatex.def Info: slike/optfib.pdf  used on input line 285.
@@ -1697,14 +1697,14 @@ Package luatex.def Info: slike/optfib.pdf  used on input line 285.
 Missing character: There is no ° (U+00B0) in font cmr12!
 Missing character: There is no ° (U+00B0) in font cmr12!
 [61<./slike/ReflexionTotal_en.svg.png><./slike/optfib.pdf>]
-<slike/rof.png, id=1980, 454.69875pt x 220.825pt>
+<slike/rof.png, id=1983, 454.69875pt x 220.825pt>
 File: slike/rof.png Graphic file (type png)
 <use slike/rof.png>
 Package luatex.def Info: slike/rof.png  used on input line 324.
 (luatex.def)             Requested size: 241.84843pt x 117.4545pt.
 
 warning  (file slike/Ifiber.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/Ifiber.pdf, id=1982, 1476.47606pt x 391.4625pt>
+<slike/Ifiber.pdf, id=1985, 1476.47606pt x 391.4625pt>
 File: slike/Ifiber.pdf Graphic file (type pdf)
 <use slike/Ifiber.pdf>
 Package luatex.def Info: slike/Ifiber.pdf  used on input line 339.
@@ -1713,12 +1713,12 @@ Package luatex.def Info: slike/Ifiber.pdf  used on input line 339.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [62<./slike/rof.png>]
-<slike/fcouper.pdf, id=1991, 845.04689pt x 597.50789pt>
+<slike/fcouper.pdf, id=1994, 845.04689pt x 597.50789pt>
 File: slike/fcouper.pdf Graphic file (type pdf)
 <use slike/fcouper.pdf>
 Package luatex.def Info: slike/fcouper.pdf  used on input line 366.
 (luatex.def)             Requested size: 241.84843pt x 171.00266pt.
-<slike/fbg.png, id=1993, 509.905pt x 235.88126pt>
+<slike/fbg.png, id=1996, 509.905pt x 235.88126pt>
 File: slike/fbg.png Graphic file (type png)
 <use slike/fbg.png>
 Package luatex.def Info: slike/fbg.png  used on input line 376.
@@ -1729,14 +1729,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [63<./slike/Ifiber.pdf><./slike/fcouper.pdf>]
 warning  (file slike/flr.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/flr.pdf, id=2008, 435.54718pt x 174.6525pt>
+<slike/flr.pdf, id=2011, 435.54718pt x 174.6525pt>
 File: slike/flr.pdf Graphic file (type pdf)
 <use slike/flr.pdf>
 Package luatex.def Info: slike/flr.pdf  used on input line 402.
 (luatex.def)             Requested size: 362.77264pt x 145.4732pt.
 
 warning  (file slike/fopt.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/fopt.pdf, id=2010, 171.7617pt x 75.40169pt>
+<slike/fopt.pdf, id=2013, 171.7617pt x 75.40169pt>
 File: slike/fopt.pdf Graphic file (type pdf)
 <use slike/fopt.pdf>
 Package luatex.def Info: slike/fopt.pdf  used on input line 416.
@@ -1746,17 +1746,17 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [64<./slike/fbg.png><./slike/flr.pdf>]) [65<./slike/fopt.pdf>] (./poglavja/LaserDrilling.tex
 Chapter 12.
-<slike/ldm.png, id=2039, 742.775pt x 565.11125pt>
+<slike/ldm.png, id=2042, 742.775pt x 565.11125pt>
 File: slike/ldm.png Graphic file (type png)
 <use slike/ldm.png>
 Package luatex.def Info: slike/ldm.png  used on input line 18.
 (luatex.def)             Requested size: 193.47578pt x 147.19276pt.
-<slike/meltflow.png, id=2041, 368.37625pt x 393.47pt>
+<slike/meltflow.png, id=2044, 368.37625pt x 393.47pt>
 File: slike/meltflow.png Graphic file (type png)
 <use slike/meltflow.png>
 Package luatex.def Info: slike/meltflow.png  used on input line 26.
 (luatex.def)             Requested size: 120.92421pt x 129.16106pt.
-<slike/ldep.png, id=2043, 584.1825pt x 353.32pt>
+<slike/ldep.png, id=2046, 584.1825pt x 353.32pt>
 File: slike/ldep.png Graphic file (type png)
 <use slike/ldep.png>
 Package luatex.def Info: slike/ldep.png  used on input line 34.
@@ -1765,75 +1765,75 @@ Package luatex.def Info: slike/ldep.png  used on input line 34.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [66<./slike/ldm.png><./slike/meltflow.png>]
-<slike/ablthr.png, id=2054, 324.21124pt x 440.64626pt>
+<slike/ablthr.png, id=2057, 324.21124pt x 440.64626pt>
 File: slike/ablthr.png Graphic file (type png)
 <use slike/ablthr.png>
 Package luatex.def Info: slike/ablthr.png  used on input line 53.
 (luatex.def)             Requested size: 120.92421pt x 164.3544pt.
  [67<./slike/ldep.png><./slike/ablthr.png>]
-<slike/atillt.png, id=2067, 1654.18pt x 454.69875pt>
+<slike/atillt.png, id=2070, 1654.18pt x 454.69875pt>
 File: slike/atillt.png Graphic file (type png)
 <use slike/atillt.png>
 Package luatex.def Info: slike/atillt.png  used on input line 86.
 (luatex.def)             Requested size: 241.84843pt x 66.47427pt.
-<slike/taper.png, id=2069, 1222.5675pt x 855.195pt>
+<slike/taper.png, id=2072, 1222.5675pt x 855.195pt>
 File: slike/taper.png Graphic file (type png)
 <use slike/taper.png>
 Package luatex.def Info: slike/taper.png  used on input line 96.
 (luatex.def)             Requested size: 241.84843pt x 169.16994pt.
-<slike/helical.png, id=2071, 585.18625pt x 238.8925pt>
+<slike/helical.png, id=2074, 585.18625pt x 238.8925pt>
 File: slike/helical.png Graphic file (type png)
 <use slike/helical.png>
 Package luatex.def Info: slike/helical.png  used on input line 111.
 (luatex.def)             Requested size: 241.84843pt x 98.73027pt.
  [68<./slike/atillt.png><./slike/taper.png>]
-<slike/oinclination.png, id=2082, 519.9425pt x 309.155pt>
+<slike/oinclination.png, id=2085, 519.9425pt x 309.155pt>
 File: slike/oinclination.png Graphic file (type png)
 <use slike/oinclination.png>
 Package luatex.def Info: slike/oinclination.png  used on input line 141.
 (luatex.def)             Requested size: 241.84843pt x 143.80275pt.
 ) [69<./slike/helical.png><./slike/oinclination.png>] (./poglavja/LaserCutting.tex
 Chapter 13.
-<slike/gasnozzle.png, id=2093, 548.0475pt x 485.815pt>
+<slike/gasnozzle.png, id=2097, 548.0475pt x 485.815pt>
 File: slike/gasnozzle.png Graphic file (type png)
 <use slike/gasnozzle.png>
 Package luatex.def Info: slike/gasnozzle.png  used on input line 14.
 (luatex.def)             Requested size: 241.84843pt x 214.38936pt.
 [70<./slike/gasnozzle.png>]
-<slike/cspeed.png, id=2102, 532.99126pt x 398.48875pt>
+<slike/cspeed.png, id=2105, 532.99126pt x 398.48875pt>
 File: slike/cspeed.png Graphic file (type png)
 <use slike/cspeed.png>
 Package luatex.def Info: slike/cspeed.png  used on input line 44.
 (luatex.def)             Requested size: 241.84843pt x 180.81407pt.
-<slike/cpolabs.png, id=2104, 325.215pt x 284.06125pt>
+<slike/cpolabs.png, id=2107, 325.215pt x 284.06125pt>
 File: slike/cpolabs.png Graphic file (type png)
 <use slike/cpolabs.png>
 Package luatex.def Info: slike/cpolabs.png  used on input line 86.
 (luatex.def)             Requested size: 241.84843pt x 211.25095pt.
  [71<./slike/cspeed.png>]) [72<./slike/cpolabs.png>] (./poglavja/LaserJoining.tex
 Chapter 14.
-<slike/energy.png, id=2121, 755.82375pt x 463.7325pt>
+<slike/energy.png, id=2124, 755.82375pt x 463.7325pt>
 File: slike/energy.png Graphic file (type png)
 <use slike/energy.png>
 Package luatex.def Info: slike/energy.png  used on input line 15.
 (luatex.def)             Requested size: 97.94728pt x 60.0892pt.
-<slike/keyhole_parts.png, id=2122, 420.57124pt x 431.6125pt>
+<slike/keyhole_parts.png, id=2125, 420.57124pt x 431.6125pt>
 File: slike/keyhole_parts.png Graphic file (type png)
 <use slike/keyhole_parts.png>
 Package luatex.def Info: slike/keyhole_parts.png  used on input line 22.
 (luatex.def)             Requested size: 97.94728pt x 100.5201pt.
-<slike/humping.png, id=2124, 626.34pt x 368.37625pt>
+<slike/humping.png, id=2127, 626.34pt x 368.37625pt>
 File: slike/humping.png Graphic file (type png)
 <use slike/humping.png>
 Package luatex.def Info: slike/humping.png  used on input line 35.
 (luatex.def)             Requested size: 241.84843pt x 142.23842pt.
-<slike/weld_mstr.png, id=2126, 1575.8875pt x 911.405pt>
+<slike/weld_mstr.png, id=2129, 1575.8875pt x 911.405pt>
 File: slike/weld_mstr.png Graphic file (type png)
 <use slike/weld_mstr.png>
 Package luatex.def Info: slike/weld_mstr.png  used on input line 50.
 (luatex.def)             Requested size: 362.77264pt x 209.79953pt.
 [73<./slike/energy.png><./slike/keyhole_parts.png><./slike/humping.png>]
-<slike/ge.png, id=2137, 1580.90625pt x 1672.2475pt>
+<slike/ge.png, id=2140, 1580.90625pt x 1672.2475pt>
 File: slike/ge.png Graphic file (type png)
 <use slike/ge.png>
 Package luatex.def Info: slike/ge.png  used on input line 73.
@@ -1843,7 +1843,7 @@ Package luatex.def Info: slike/ge.png  used on input line 73.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [74<./slike/weld_mstr.png>] [75<./slike/ge.png>]
-<slike/lassol.png, id=2156, 2013.5225pt x 395.4775pt>
+<slike/lassol.png, id=2159, 2013.5225pt x 395.4775pt>
 File: slike/lassol.png Graphic file (type png)
 <use slike/lassol.png>
 Package luatex.def Info: slike/lassol.png  used on input line 126.
@@ -1863,12 +1863,12 @@ Underfull \hbox (badness 4378) in paragraph at lines 151--151
 []|\TU/lmr/m/n/12 Can be tem-per-a-ture con-
  []
 
-<slike/conturWeld.png, id=2157, 233.87375pt x 197.73875pt>
+<slike/conturWeld.png, id=2160, 233.87375pt x 197.73875pt>
 File: slike/conturWeld.png Graphic file (type png)
 <use slike/conturWeld.png>
 Package luatex.def Info: slike/conturWeld.png  used on input line 153.
 (luatex.def)             Requested size: 145.11053pt x 122.69632pt.
-<slike/galvoweld.png, id=2158, 257.96375pt x 197.73875pt>
+<slike/galvoweld.png, id=2161, 257.96375pt x 197.73875pt>
 File: slike/galvoweld.png Graphic file (type png)
 <use slike/galvoweld.png>
 Package luatex.def Info: slike/galvoweld.png  used on input line 153.
@@ -1885,28 +1885,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Chapter 15.
 
 warning  (file slike/OptNonLin.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/OptNonLin.pdf, id=2174, 401.58029pt x 215.84639pt>
+<slike/OptNonLin.pdf, id=2177, 401.58029pt x 215.84639pt>
 File: slike/OptNonLin.pdf Graphic file (type pdf)
 <use slike/OptNonLin.pdf>
 Package luatex.def Info: slike/OptNonLin.pdf  used on input line 10.
 (luatex.def)             Requested size: 362.77264pt x 194.9944pt.
 [78<./slike/OptNonLin.pdf>]
 warning  (file slike/EMwIO.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/EMwIO.pdf, id=2191, 374.3586pt x 186.6975pt>
+<slike/EMwIO.pdf, id=2194, 374.3586pt x 186.6975pt>
 File: slike/EMwIO.pdf Graphic file (type pdf)
 <use slike/EMwIO.pdf>
 Package luatex.def Info: slike/EMwIO.pdf  used on input line 81.
 (luatex.def)             Requested size: 217.66211pt x 108.5524pt.
 [79<./slike/EMwIO.pdf>]
 warning  (file slike/secharm.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/secharm.pdf, id=2203, 346.4142pt x 219.70079pt>
+<slike/secharm.pdf, id=2207, 346.4142pt x 219.70079pt>
 File: slike/secharm.pdf Graphic file (type pdf)
 <use slike/secharm.pdf>
 Package luatex.def Info: slike/secharm.pdf  used on input line 95.
 (luatex.def)             Requested size: 241.84843pt x 153.38385pt.
 
 warning  (file slike/Shgapp1.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.4' allowed
-<slike/Shgapp1.pdf, id=2205, 246.9225pt x 109.3686pt>
+<slike/Shgapp1.pdf, id=2209, 246.9225pt x 109.3686pt>
 File: slike/Shgapp1.pdf Graphic file (type pdf)
 <use slike/Shgapp1.pdf>
 Package luatex.def Info: slike/Shgapp1.pdf  used on input line 128.
@@ -1915,7 +1915,7 @@ Package luatex.def Info: slike/Shgapp1.pdf  used on input line 128.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [80<./slike/secharm.pdf>]
-<slike/thg.png, id=2223, 759.83875pt x 667.49374pt>
+<slike/thg.png, id=2226, 759.83875pt x 667.49374pt>
 File: slike/thg.png Graphic file (type png)
 <use slike/thg.png>
 Package luatex.def Info: slike/thg.png  used on input line 167.
@@ -1925,7 +1925,7 @@ Package luatex.def Info: slike/thg.png  used on input line 167.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [81<./slike/Shgapp1.pdf>]
-<slike/cpa.png, id=2240, 932.48375pt x 585.18625pt>
+<slike/cpa.png, id=2243, 932.48375pt x 585.18625pt>
 File: slike/cpa.png Graphic file (type png)
 <use slike/cpa.png>
 Package luatex.def Info: slike/cpa.png  used on input line 200.
@@ -1936,7 +1936,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [82<./slike/thg.png>]) [83<./slike/cpa.png>] (./poglavja/Additive.tex
 Chapter 16.
-<slike/ded.png, id=2252, 706.64pt x 541.02126pt>
+<slike/ded.png, id=2255, 706.64pt x 541.02126pt>
 File: slike/ded.png Graphic file (type png)
 <use slike/ded.png>
 Package luatex.def Info: slike/ded.png  used on input line 59.
@@ -1955,18 +1955,18 @@ Package rerunfilecheck Info: File `Dokument.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 45131 strings out of 476447
+ 45142 strings out of 476447
  100000,1977958 words of node,token memory allocated
  1072 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 90 attribute, 100 glue_spec, 90 attribute_list, 2 write nodes
    avail lists: 2:924,3:270,4:82,5:477,6:67,7:5890,8:82,9:813,10:13,11:435
- 65218 multiletter control sequences out of 65536+600000
+ 65223 multiletter control sequences out of 65536+600000
  49 fonts using 3529047 bytes
  99i,17n,97p,886b,2835s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Dokument.pdf (86 pages, 54981360 bytes).
+Output written on Dokument.pdf (87 pages, 54982084 bytes).
 
-PDF statistics: 2373 PDF objects out of 2487 (max. 8388607)
+PDF statistics: 2376 PDF objects out of 2487 (max. 8388607)
  433 named destinations out of 1000 (max. 131072)
  1367 words of extra memory for PDF output out of 10000 (max. 100000000)
 
